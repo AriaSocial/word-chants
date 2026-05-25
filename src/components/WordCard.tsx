@@ -1,6 +1,5 @@
 import React from 'react'
 import { Volume2, CheckCircle2 } from 'lucide-react'
-import { motion } from 'framer-motion'
 import { Word } from '../types'
 
 interface WordCardProps {
@@ -50,14 +49,7 @@ export const WordCard: React.FC<WordCardProps> = ({
   const hasSentences = word.sentense_en && word.sentense_en.length > 0
 
   return (
-    <motion.div
-      layout
-      initial={{ opacity: 0, scale: 0.95, y: 12 }}
-      animate={{ opacity: 1, scale: 1, y: 0 }}
-      exit={{ opacity: 0, scale: 0.95, y: -12 }}
-      transition={{ duration: 0.35, ease: "easeInOut" }}
-      className={cardWrapperStyles}
-    >
+    <div className={cardWrapperStyles}>
       {/* Top Section - Fixed height wrapper (h-36 = 144px) to perfectly align Details starting offsets */}
       <div className="h-36 flex flex-col justify-between">
         {/* Header Row */}
@@ -137,6 +129,6 @@ export const WordCard: React.FC<WordCardProps> = ({
           )}
         </div>
       )}
-    </motion.div>
+    </div>
   )
 }
