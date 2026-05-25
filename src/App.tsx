@@ -14,7 +14,7 @@ const mainLayoutWrapperStyles = "mx-auto max-w-7xl px-4 py-8 md:px-6 md:py-12 fl
 const searchInputWrapperStyles = "relative flex-grow flex items-center bg-white border border-slate-200 rounded-xl group focus-within:border-indigo-500/50 focus-within:ring-2 focus-within:ring-indigo-500/5 transition-all duration-300 shadow-sm"
 const searchInputStyles = "w-full bg-transparent text-base md:text-sm text-slate-800 placeholder-slate-400 focus:outline-none py-3 pl-11 pr-10 rounded-xl"
 const gridWordListStyles = "grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
-const emptyStateContainerStyles = "glass-panel flex flex-col items-center justify-center py-16 px-4 rounded-3xl text-center border border-slate-200"
+const emptyStateContainerStyles = "glass-panel flex flex-col items-center justify-center py-16 px-4 rounded-3xl text-center border border-slate-200 min-h-[350px]"
 const emptyStateIconStyles = "flex h-12 w-12 items-center justify-center rounded-xl bg-slate-100 text-slate-400 border border-slate-200 mb-4"
 
 export default function App() {
@@ -91,7 +91,7 @@ export default function App() {
 
         {/* --- 1. SEARCH & BROWSE MODE --- */}
         {viewMode === 'search' && (
-          <main className="flex flex-col gap-6">
+          <main className="flex flex-col gap-6 min-h-[500px] md:min-h-0">
             {/* Summary Metrics */}
             <DashboardStats
               totalCount={words.length}
