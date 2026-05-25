@@ -1,0 +1,4287 @@
+[
+    {
+        "id": "0001",
+        "word": "budget",
+        "chants": [
+            "予算(案)",
+            "経費",
+            "(〜の)予算を立てる"
+        ],
+        "phrase_en": [
+            "be over [under] budget",
+            "budget deficit"
+        ],
+        "phrase_ja": [
+            "予算を上回って[下回って]いる",
+            "予算の赤字、財政赤字"
+        ],
+        "sentense_en": [
+            "The company has drawn up a budget for the next fiscal year."
+        ],
+        "sentense_ja": [
+            "その会社は次期会計年度の予算案を作成した"
+        ]
+    },
+    {
+        "id": "0002",
+        "word": "candidate",
+        "chants": [
+            "(〜への)候補者",
+            "志願者",
+            "立候補"
+        ],
+        "phrase_en": [
+            "a candidate for mayor",
+            "the prime candidate"
+        ],
+        "phrase_ja": [
+            "市長候補者",
+            "最有力候補者"
+        ],
+        "sentense_en": [
+            "There are five candidates standing in the election."
+        ],
+        "sentense_ja": [
+            "その選挙には5人の候補者が出馬している"
+        ]
+    },
+    {
+        "id": "0003",
+        "word": "facility",
+        "chants": [
+            "(しばしば -ies)施設",
+            "設備"
+        ],
+        "phrase_en": [
+            "research facilities"
+        ],
+        "phrase_ja": [
+            "研究施設"
+        ],
+        "sentense_en": [
+            "The money will be used to build a new sports facility."
+        ],
+        "sentense_ja": [
+            "そのお金は新しいスポーツ施設を建設するために使われる予定だ"
+        ]
+    },
+    {
+        "id": "0004",
+        "word": "admission",
+        "chants": [
+            "入場許可",
+            "入学許可",
+            "入社許可",
+            "入場料",
+            "自白",
+            "告白"
+        ],
+        "phrase_en": [
+            "gain admission to ~",
+            "Admission Free."
+        ],
+        "phrase_ja": [
+            "〜に入る許可を得る",
+            "入場無料"
+        ],
+        "sentense_en": [
+            "Admission to the party was by invitation only."
+        ],
+        "sentense_ja": [
+            "そのパーティーへの入場は招待によるものだけだった"
+        ]
+    },
+    {
+        "id": "0005",
+        "word": "banquet",
+        "chants": [
+            "(公式の)宴会",
+            "祝宴"
+        ],
+        "phrase_en": [
+            "give [hold] a banquet"
+        ],
+        "phrase_ja": [
+            "宴会を催す"
+        ],
+        "sentense_en": [
+            "He was asked to make a speech at the banquet."
+        ],
+        "sentense_ja": [
+            "彼はその宴会でスピーチをするよう依頼された"
+        ]
+    },
+    {
+        "id": "0006",
+        "word": "estimate",
+        "chants": [
+            "見積もり",
+            "概算",
+            "〜を見積もる",
+            "〜を評価する"
+        ],
+        "phrase_en": [
+            "a rough estimate"
+        ],
+        "phrase_ja": [
+            "大ざっぱな見積もり"
+        ],
+        "sentense_en": [
+            "According to a government estimate, the unemployment figure is about 10 million."
+        ],
+        "sentense_ja": [
+            "政府の見積もりによると、失業者数は約1000万人だ"
+        ]
+    },
+    {
+        "id": "0007",
+        "word": "representative",
+        "chants": [
+            "代理人",
+            "代表者",
+            "代議士",
+            "米国下院議員",
+            "代表的な",
+            "(〜を)代表する"
+        ],
+        "phrase_en": [
+            "a sales representative",
+            "the House of Representatives"
+        ],
+        "phrase_ja": [
+            "販売代理人",
+            "衆議院(日本) / 下院(米国)"
+        ],
+        "sentense_en": [
+            "Our company has 10 representatives in Europe."
+        ],
+        "sentense_ja": [
+            "当社にはヨーロッパ駐在の代理人が10人いる"
+        ]
+    },
+    {
+        "id": "0008",
+        "word": "solution",
+        "chants": [
+            "(〜への)解決策",
+            "解答"
+        ],
+        "phrase_en": [
+            "solutions to the problem of unemployment",
+            "the solution to the crossword puzzle"
+        ],
+        "phrase_ja": [
+            "失業問題の解決策",
+            "クロスワードパズルの答え"
+        ],
+        "sentense_en": [
+            "The government has been seeking solutions to the financial crisis."
+        ],
+        "sentense_ja": [
+            "政府は金融危機の解決策を模索し求めている"
+        ]
+    },
+    {
+        "id": "0009",
+        "word": "headquarters",
+        "chants": [
+            "本社",
+            "本部",
+            "本署"
+        ],
+        "phrase_en": [
+            "the headquarters of Toyota"
+        ],
+        "phrase_ja": [
+            "トヨタ社の本社"
+        ],
+        "sentense_en": [
+            "The company's headquarters is located in Osaka."
+        ],
+        "sentense_ja": [
+            "その会社の本社は大阪にある"
+        ]
+    },
+    {
+        "id": "0010",
+        "word": "reservation",
+        "chants": [
+            "(ホテルなどの)予約",
+            "(野生動物の)保護区",
+            "(〜についての)懸念"
+        ],
+        "phrase_en": [
+            "make a hotel reservation",
+            "a wildlife reservation"
+        ],
+        "phrase_ja": [
+            "ホテルの予約をする",
+            "野生生物保護区"
+        ],
+        "sentense_en": [
+            "Have you confirmed your flight reservation?"
+        ],
+        "sentense_ja": [
+            "飛行機の予約の確認はしましたか？"
+        ]
+    },
+    {
+        "id": "0011",
+        "word": "destination",
+        "chants": [
+            "目的地",
+            "行き先"
+        ],
+        "phrase_en": [
+            "a popular tourist destination"
+        ],
+        "phrase_ja": [
+            "人気の観光地"
+        ],
+        "sentense_en": [
+            "We arrived at our destination two hours late."
+        ],
+        "sentense_ja": [
+            "私たちは目的地に2時間遅れて到着した"
+        ]
+    },
+    {
+        "id": "0012",
+        "word": "procedure",
+        "chants": [
+            "(〜の)手順",
+            "順序",
+            "方法",
+            "(正式な)手続き"
+        ],
+        "phrase_en": [
+            "follow correct procedure",
+            "legal procedure"
+        ],
+        "phrase_ja": [
+            "正しい手順に従う",
+            "法的手続き"
+        ],
+        "sentense_en": [
+            "What's the regular procedure for screening applicants?"
+        ],
+        "sentense_ja": [
+            "求職者を選別する通常の方法は何ですか？"
+        ]
+    },
+    {
+        "id": "0013",
+        "word": "colleague",
+        "chants": [
+            "同僚"
+        ],
+        "phrase_en": [
+            "colleagues at the office"
+        ],
+        "phrase_ja": [
+            "職場の同僚"
+        ],
+        "sentense_en": [
+            "He gets along with his colleagues."
+        ],
+        "sentense_ja": [
+            "彼は同僚たちと仲よくやっている"
+        ]
+    },
+    {
+        "id": "0014",
+        "word": "survey",
+        "chants": [
+            "調査",
+            "〜を調査する"
+        ],
+        "phrase_en": [
+            "conduct [carry out] a survey"
+        ],
+        "phrase_ja": [
+            "調査を行う"
+        ],
+        "sentense_en": [
+            "A recent survey showed that 55 percent of Americans are over-weight."
+        ],
+        "sentense_ja": [
+            "最近の調査では、アメリカ人の55パーセントは肥満であることが明らかになった"
+        ]
+    },
+    {
+        "id": "0015",
+        "word": "accounting",
+        "chants": [
+            "会計(学)",
+            "経理"
+        ],
+        "phrase_en": [
+            "major in accounting"
+        ],
+        "phrase_ja": [
+            "会計学を専攻する"
+        ],
+        "sentense_en": [
+            "She has a good working knowledge of accounting."
+        ],
+        "sentense_ja": [
+            "彼女は実用的な会計知識を十分に身につけている"
+        ]
+    },
+    {
+        "id": "0016",
+        "word": "architect",
+        "chants": [
+            "建築家",
+            "建築士"
+        ],
+        "phrase_en": [
+            "a competent architect"
+        ],
+        "phrase_ja": [
+            "有能な建築家"
+        ],
+        "sentense_en": [
+            "Frank Lloyd Wright was one of the greatest architects of the 20th century."
+        ],
+        "sentense_ja": [
+            "フランク・ロイド・ライトは20世紀の最も偉大な建築家の1人だった"
+        ]
+    },
+    {
+        "id": "0017",
+        "word": "construction",
+        "chants": [
+            "建設",
+            "建築工事",
+            "構造"
+        ],
+        "phrase_en": [
+            "under construction",
+            "a building of lightweight construction"
+        ],
+        "phrase_ja": [
+            "建設中で",
+            "軽量構造の建物"
+        ],
+        "sentense_en": [
+            "They are working at the construction site."
+        ],
+        "sentense_ja": [
+            "彼らは建設現場で働いている"
+        ]
+    },
+    {
+        "id": "0018",
+        "word": "deposit",
+        "chants": [
+            "預金",
+            "手付金",
+            "頭金",
+            "鉱床",
+            "〜を置く",
+            "〜を預ける",
+            "〜を堆積させる"
+        ],
+        "phrase_en": [
+            "make a deposit in ~",
+            "put a deposit on ~"
+        ],
+        "phrase_ja": [
+            "〜に預金する",
+            "〜の手付金を支払う"
+        ],
+        "sentense_en": [
+            "You must make a minimum deposit of $100 to open an account."
+        ],
+        "sentense_ja": [
+            "口座を開くには最低100ドルを預金しなければならない"
+        ]
+    },
+    {
+        "id": "0019",
+        "word": "transportation",
+        "chants": [
+            "輸送",
+            "運送",
+            "交通機関",
+            "輸送機関"
+        ],
+        "phrase_en": [
+            "a means of transportation",
+            "public transportation"
+        ],
+        "phrase_ja": [
+            "交通[輸送]手段",
+            "公共交通機関"
+        ],
+        "sentense_en": [
+            "The city's transportation system is inefficient."
+        ],
+        "sentense_ja": [
+            "その市の交通システムは非効率的だ"
+        ]
+    },
+    {
+        "id": "0020",
+        "word": "résumé",
+        "chants": [
+            "履歴書",
+            "要約",
+            "概要",
+            "レジュメ"
+        ],
+        "phrase_en": [
+            "a 10-page résumé",
+            "a résumé of the project"
+        ],
+        "phrase_ja": [
+            "10ページの履歴書",
+            "そのプロジェクトの概要"
+        ],
+        "sentense_en": [
+            "He sent his résumé to 20 companies."
+        ],
+        "sentense_ja": [
+            "彼は履歴書を20社に送った"
+        ]
+    },
+    {
+        "id": "0021",
+        "word": "conference",
+        "chants": [
+            "会議"
+        ],
+        "phrase_en": [
+            "have [hold] a conference",
+            "an international conference"
+        ],
+        "phrase_ja": [
+            "会議を開く",
+            "国際会議"
+        ],
+        "sentense_en": [
+            "Who will attend the conference next week?"
+        ],
+        "sentense_ja": [
+            "来週の会議には誰が出席するのですか？"
+        ]
+    },
+    {
+        "id": "0022",
+        "word": "donation",
+        "chants": [
+            "寄付",
+            "寄贈",
+            "寄付金",
+            "寄贈品"
+        ],
+        "phrase_en": [
+            "make a donation to ~",
+            "beg for donations"
+        ],
+        "phrase_ja": [
+            "〜に寄付する",
+            "寄付金を請う"
+        ],
+        "sentense_en": [
+            "She made a donation of $200,000 to the local hospital."
+        ],
+        "sentense_ja": [
+            "彼女は地元の病院に20万ドルを寄付した"
+        ]
+    },
+    {
+        "id": "0023",
+        "word": "retail",
+        "chants": [
+            "小売り",
+            "〜の値で小売りされる",
+            "小売り(価格)で"
+        ],
+        "phrase_en": [
+            "retail trade",
+            "a retail outlet"
+        ],
+        "phrase_ja": [
+            "小売業",
+            "小売店"
+        ],
+        "sentense_en": [
+            "Retail sales have been slow this year."
+        ],
+        "sentense_ja": [
+            "今年は小売りの売上高が不振だ"
+        ]
+    },
+    {
+        "id": "0024",
+        "word": "revenue",
+        "chants": [
+            "総収益",
+            "総利益",
+            "歳入",
+            "収入"
+        ],
+        "phrase_en": [
+            "generate revenue",
+            "revenue and expenditure"
+        ],
+        "phrase_ja": [
+            "収益を上げる",
+            "収支"
+        ],
+        "sentense_en": [
+            "The company's estimated revenue totals $300 million worldwide."
+        ],
+        "sentense_ja": [
+            "その会社の概算の総収益は世界中で総計3億ドルになる"
+        ]
+    },
+    {
+        "id": "0025",
+        "word": "strategy",
+        "chants": [
+            "(〜の／…するための)戦略",
+            "戦術"
+        ],
+        "phrase_en": [
+            "a marketing strategy"
+        ],
+        "phrase_ja": [
+            "販売戦略"
+        ],
+        "sentense_en": [
+            "The CEO refused to give specifics of the company's strategy."
+        ],
+        "sentense_ja": [
+            "そのCEOは会社の戦略を詳細に述べることを拒んだ"
+        ]
+    },
+    {
+        "id": "0026",
+        "word": "accommodation",
+        "chants": [
+            "(通例〜s)宿泊設備"
+        ],
+        "phrase_en": [
+            "cheap accommodation"
+        ],
+        "phrase_ja": [
+            "安い宿泊施設"
+        ],
+        "sentense_en": [
+            "The hotel has accommodations for 500 guests."
+        ],
+        "sentense_ja": [
+            "そのホテルは500人の客が宿泊できる"
+        ]
+    },
+    {
+        "id": "0027",
+        "word": "departure",
+        "chants": [
+            "(〜からの／…へ向けての)出発"
+        ],
+        "phrase_en": [
+            "the departure lounge"
+        ],
+        "phrase_ja": [
+            "出発待合室"
+        ],
+        "sentense_en": [
+            "Our departure was delayed because of a snowstorm."
+        ],
+        "sentense_ja": [
+            "私たちの出発は吹雪のため遅れた"
+        ]
+    },
+    {
+        "id": "0028",
+        "word": "executive",
+        "chants": [
+            "重役",
+            "経営幹部",
+            "重役の",
+            "執行権のある",
+            "行政上の"
+        ],
+        "phrase_en": [
+            "a senior executive"
+        ],
+        "phrase_ja": [
+            "上級管理職"
+        ],
+        "sentense_en": [
+            "Mr. Smith earned over $100,000 last year as a sales executive."
+        ],
+        "sentense_ja": [
+            "スミス氏は販売担当重役として昨年10万ドル以上を得た"
+        ]
+    },
+    {
+        "id": "0029",
+        "word": "exhibit",
+        "chants": [
+            "展示品",
+            "陳列品",
+            "〜を展示する",
+            "〜を陳列する"
+        ],
+        "phrase_en": [
+            "a sculpture exhibit"
+        ],
+        "phrase_ja": [
+            "彫刻の展示品"
+        ],
+        "sentense_en": [
+            "The exhibits are arranged on the table."
+        ],
+        "sentense_ja": [
+            "展示品が机に並べられている"
+        ]
+    },
+    {
+        "id": "0030",
+        "word": "forecast",
+        "chants": [
+            "予想",
+            "予測",
+            "予報",
+            "〜を予想[予測、予報]する"
+        ],
+        "phrase_en": [
+            "a sales forecast"
+        ],
+        "phrase_ja": [
+            "販売予想"
+        ],
+        "sentense_en": [
+            "According to the weather forecast, it is going to rain later today."
+        ],
+        "sentense_ja": [
+            "天気予報によると、今日はこれから雨が降るということだ"
+        ]
+    },
+    {
+        "id": "0031",
+        "word": "inquiry",
+        "chants": [
+            "(〜についての)問い合わせ",
+            "質問",
+            "(事件などの)調査"
+        ],
+        "phrase_en": [
+            "make inquiries about flights",
+            "an inquiry into the fraud"
+        ],
+        "phrase_ja": [
+            "飛行機の便について問い合わせる",
+            "その詐欺事件の調査"
+        ],
+        "sentense_en": [
+            "For further inquiries, please contact us at the number below."
+        ],
+        "sentense_ja": [
+            "ほかにご質問がありましたら、下記の電話番号までご連絡ください"
+        ]
+    },
+    {
+        "id": "0032",
+        "word": "prescription",
+        "chants": [
+            "処方箋",
+            "処方薬"
+        ],
+        "phrase_en": [
+            "get a prescription filled"
+        ],
+        "phrase_ja": [
+            "処方薬を調合してもらう"
+        ],
+        "sentense_en": [
+            "This drug is only available by prescription."
+        ],
+        "sentense_ja": [
+            "この薬は処方箋によってのみ入手できる"
+        ]
+    },
+    {
+        "id": "0033",
+        "word": "replacement",
+        "chants": [
+            "(〜の)後任者",
+            "後継者",
+            "取り換え品"
+        ],
+        "phrase_en": [
+            "a replacement for the secretary",
+            "ship a replacement"
+        ],
+        "phrase_ja": [
+            "その秘書の後任者",
+            "取り換え品を送る"
+        ],
+        "sentense_en": [
+            "The company has to find Mr. White's replacement as CEO."
+        ],
+        "sentense_ja": [
+            "その会社はホワイト氏の後継者のCEOを見つけなければならない"
+        ]
+    },
+    {
+        "id": "0034",
+        "word": "award",
+        "chants": [
+            "(〜に対する)賞",
+            "賞品",
+            "賞金",
+            "〜を授与する",
+            "〜を(裁定によって)与える"
+        ],
+        "phrase_en": [
+            "awards ceremony",
+            "receive an award of $10,000"
+        ],
+        "phrase_ja": [
+            "授授式",
+            "1万ドルの賞金をもらう"
+        ],
+        "sentense_en": [
+            "He is another possible candidate for the award."
+        ],
+        "sentense_ja": [
+            "彼はその賞のもう1人の有力候補者だ"
+        ]
+    },
+    {
+        "id": "0035",
+        "word": "caution",
+        "chants": [
+            "用心",
+            "注意",
+            "警戒",
+            "警告",
+            "〜に警告する",
+            "〜に注意する"
+        ],
+        "phrase_en": [
+            "exercise [use] caution",
+            "a word [note] of caution"
+        ],
+        "phrase_ja": [
+            "用心する",
+            "注意書き、警告の言葉"
+        ],
+        "sentense_en": [
+            "Climbers on the mountain should use extreme caution."
+        ],
+        "sentense_ja": [
+            "その山の登山者は細心の注意を払わなければならない"
+        ]
+    },
+    {
+        "id": "0036",
+        "word": "certificate",
+        "chants": [
+            "証明書",
+            "(課程の)修了証",
+            "免許状"
+        ],
+        "phrase_en": [
+            "a birth [marriage] certificate",
+            "a teaching certificate"
+        ],
+        "phrase_ja": [
+            "出生[結婚]証明書",
+            "教員免許状"
+        ],
+        "sentense_en": [
+            "You need to submit a medical certificate to your supervisor to take long sick leave."
+        ],
+        "sentense_ja": [
+            "長期の病気休暇を取るには、診断書を上司に提出する必要がある"
+        ]
+    },
+    {
+        "id": "0037",
+        "word": "consumer",
+        "chants": [
+            "消費者"
+        ],
+        "phrase_en": [
+            "consumer demand [spending]"
+        ],
+        "phrase_ja": [
+            "消費者需要[支出]"
+        ],
+        "sentense_en": [
+            "The new law is meant to protect consumers."
+        ],
+        "sentense_ja": [
+            "その新しい法律は消費者を守るためにある"
+        ]
+    },
+    {
+        "id": "0038",
+        "word": "registration",
+        "chants": [
+            "登録",
+            "登記",
+            "記録"
+        ],
+        "phrase_en": [
+            "voter registration"
+        ],
+        "phrase_ja": [
+            "選挙人登録"
+        ],
+        "sentense_en": [
+            "The registration fee is $100."
+        ],
+        "sentense_ja": [
+            "[登録]料は100ドルだ"
+        ]
+    },
+    {
+        "id": "0039",
+        "word": "spectator",
+        "chants": [
+            "(スポーツなどの)観客",
+            "見物人"
+        ],
+        "phrase_en": [
+            "cheering spectators"
+        ],
+        "phrase_ja": [
+            "声援を送っている観客たち"
+        ],
+        "sentense_en": [
+            "There are a lot of spectators in the stadium."
+        ],
+        "sentense_ja": [
+            "スタジアムには多くの観客がいる"
+        ]
+    },
+    {
+        "id": "0040",
+        "word": "extension",
+        "chants": [
+            "(電話の)内線",
+            "延期",
+            "延長",
+            "拡張",
+            "拡大"
+        ],
+        "phrase_en": [
+            "an extension number",
+            "the extension of the airport"
+        ],
+        "phrase_ja": [
+            "内線番号",
+            "空港の拡張"
+        ],
+        "sentense_en": [
+            "I'd like Extension 2426, please."
+        ],
+        "sentense_ja": [
+            "内線2426をお願いします"
+        ]
+    },
+    {
+        "id": "0041",
+        "word": "ingredient",
+        "chants": [
+            "(料理などの)材料",
+            "成分",
+            "要素"
+        ],
+        "phrase_en": [
+            "a list of ingredients",
+            "a vital ingredient of success"
+        ],
+        "phrase_ja": [
+            "[食品などの]成分リスト",
+            "成功に不可欠な要素"
+        ],
+        "sentense_en": [
+            "The chef always uses the best and freshest ingredients."
+        ],
+        "sentense_ja": [
+            "そのシェフは最高品質で最も新鮮な材料を常に使っている"
+        ]
+    },
+    {
+        "id": "0042",
+        "word": "hospitality",
+        "chants": [
+            "親切なもてなし",
+            "歓待"
+        ],
+        "phrase_en": [
+            "give hospitality to guests"
+        ],
+        "phrase_ja": [
+            "客を親切にもてなす"
+        ],
+        "sentense_en": [
+            "Thank you so much for your hospitality."
+        ],
+        "sentense_ja": [
+            "ご歓待いただき、どうもありがとうございます"
+        ]
+    },
+    {
+        "id": "0043",
+        "word": "summary",
+        "chants": [
+            "(〜の)要約",
+            "概略",
+            "略式の",
+            "即座の"
+        ],
+        "phrase_en": [
+            "in summary"
+        ],
+        "phrase_ja": [
+            "要約すると"
+        ],
+        "sentense_en": [
+            "Can you give me a brief summary of yesterday's meeting?"
+        ],
+        "sentense_ja": [
+            "昨日の会議の概要を簡単に教えてくれますか？"
+        ]
+    },
+    {
+        "id": "0044",
+        "word": "editor",
+        "chants": [
+            "編集者"
+        ],
+        "phrase_en": [
+            "an editor of a men's magazine",
+            "the editor in chief"
+        ],
+        "phrase_ja": [
+            "男性誌の編集者",
+            "編集長"
+        ],
+        "sentense_en": [
+            "My dream is to be an editor of a fashion magazine."
+        ],
+        "sentense_ja": [
+            "私の夢はファッション誌の編集者になることだ"
+        ]
+    },
+    {
+        "id": "0045",
+        "word": "transaction",
+        "chants": [
+            "取引",
+            "(業務の)処理"
+        ],
+        "phrase_en": [
+            "real estate transactions",
+            "the transaction of business"
+        ],
+        "phrase_ja": [
+            "不動産取引",
+            "業務の処理"
+        ],
+        "sentense_en": [
+            "The bank offers secure transactions over the Internet."
+        ],
+        "sentense_ja": [
+            "その銀行はインターネット上での安全な取引を提供している"
+        ]
+    },
+    {
+        "id": "0046",
+        "word": "accountant",
+        "chants": [
+            "会計士"
+        ],
+        "phrase_en": [
+            "certified public accountant"
+        ],
+        "phrase_ja": [
+            "公認会計士"
+        ],
+        "sentense_en": [
+            "My dream is to be an accountant."
+        ],
+        "sentense_ja": [
+            "私の夢は会計士になることだ"
+        ]
+    },
+    {
+        "id": "0047",
+        "word": "grocery",
+        "chants": [
+            "食料雑貨類"
+        ],
+        "phrase_en": [
+            "a grocery store"
+        ],
+        "phrase_ja": [
+            "食料雑貨店"
+        ],
+        "sentense_en": [
+            "The woman is carrying groceries."
+        ],
+        "sentense_ja": [
+            "女性は食料雑貨類を運んでいる"
+        ]
+    },
+    {
+        "id": "0048",
+        "word": "personnel",
+        "chants": [
+            "人事部",
+            "人事課",
+            "人員"
+        ],
+        "phrase_en": [
+            "a personnel manager",
+            "cut in personnel"
+        ],
+        "phrase_ja": [
+            "人事部長",
+            "人員削減"
+        ],
+        "sentense_en": [
+            "Susie works in the personnel division of the company."
+        ],
+        "sentense_ja": [
+            "スージーはその会社の人事部に勤務している"
+        ]
+    },
+    {
+        "id": "0049",
+        "word": "refreshment",
+        "chants": [
+            "軽食"
+        ],
+        "phrase_en": [
+            "light refreshments"
+        ],
+        "phrase_ja": [
+            "茶菓子"
+        ],
+        "sentense_en": [
+            "The guests are having refreshments."
+        ],
+        "sentense_ja": [
+            "来客たちは軽食を取っている"
+        ]
+    },
+    {
+        "id": "0050",
+        "word": "exhibition",
+        "chants": [
+            "展覧会",
+            "展示会",
+            "展示"
+        ],
+        "phrase_en": [
+            "an exhibition of Picasso's paintings",
+            "on exhibition"
+        ],
+        "phrase_ja": [
+            "ピカソの絵画の展覧会",
+            "展示[公開]されて"
+        ],
+        "sentense_en": [
+            "There will be an exhibition of medieval art at the city gallery next month."
+        ],
+        "sentense_ja": [
+            "来月、中世芸術の展覧会が市立美術館で開催される"
+        ]
+    },
+    {
+        "id": "0051",
+        "word": "laboratory",
+        "chants": [
+            "実験室",
+            "実験所",
+            "研究室",
+            "研究所"
+        ],
+        "phrase_en": [
+            "a sterile laboratory",
+            "a language laboratory"
+        ],
+        "phrase_ja": [
+            "無菌実験室",
+            "語学ラボ"
+        ],
+        "sentense_en": [
+            "You need permission to enter the laboratory."
+        ],
+        "sentense_ja": [
+            "その実験室に入るには許可が必要だ"
+        ]
+    },
+    {
+        "id": "0052",
+        "word": "compromise",
+        "chants": [
+            "妥協",
+            "歩み寄り",
+            "妥協する"
+        ],
+        "phrase_en": [
+            "reach a compromise with ~",
+            "a compromise between management and a union"
+        ],
+        "phrase_ja": [
+            "〜と妥協に至る",
+            "経営陣と組合間の歩み寄り"
+        ],
+        "sentense_en": [
+            "There will be no compromise with terrorism."
+        ],
+        "sentense_ja": [
+            "テロとの妥協はあり得ない"
+        ]
+    },
+    {
+        "id": "0053",
+        "word": "deadline",
+        "chants": [
+            "(〜の)締め切り(時間)",
+            "最終期限"
+        ],
+        "phrase_en": [
+            "meet [miss] the deadline"
+        ],
+        "phrase_ja": [
+            "締め切りに間に合う[遅れる]"
+        ],
+        "sentense_en": [
+            "What is the deadline for submission of application forms?"
+        ],
+        "sentense_ja": [
+            "申込用紙の提出期限はいつですか？"
+        ]
+    },
+    {
+        "id": "0054",
+        "word": "manufacturer",
+        "chants": [
+            "製造会社",
+            "メーカー"
+        ],
+        "phrase_en": [
+            "a computer manufacturer"
+        ],
+        "phrase_ja": [
+            "コンピューター製造会社"
+        ],
+        "sentense_en": [
+            "The car manufacturer announced its sales figures for the third quarter."
+        ],
+        "sentense_ja": [
+            "その自動車メーカーは第3四半期の売上高を発表した"
+        ]
+    },
+    {
+        "id": "0055",
+        "word": "negotiation",
+        "chants": [
+            "(〜に関する)交渉",
+            "話し合い"
+        ],
+        "phrase_en": [
+            "enter into negotiations",
+            "diplomatic negotiations"
+        ],
+        "phrase_ja": [
+            "交渉を始める",
+            "外交交渉"
+        ],
+        "sentense_en": [
+            "Contract negotiations proceeded smoothly."
+        ],
+        "sentense_ja": [
+            "契約交渉は順調に進んだ"
+        ]
+    },
+    {
+        "id": "0056",
+        "word": "routine",
+        "chants": [
+            "決まりきった仕事",
+            "日課",
+            "いつもの手順",
+            "決まりきった",
+            "日常の"
+        ],
+        "phrase_en": [
+            "a daily routine",
+            "according to routine"
+        ],
+        "phrase_ja": [
+            "日課",
+            "いつもの手順に従って"
+        ],
+        "sentense_en": [
+            "I'm getting tired of the routines at work."
+        ],
+        "sentense_ja": [
+            "私は職場での決まりきった仕事に飽き始めている"
+        ]
+    },
+    {
+        "id": "0057",
+        "word": "workshop",
+        "chants": [
+            "研修会",
+            "研究会",
+            "講習会",
+            "セミナー",
+            "作業場"
+        ],
+        "phrase_en": [
+            "a management workshop"
+        ],
+        "phrase_ja": [
+            "経営管理セミナー"
+        ],
+        "sentense_en": [
+            "There will be a workshop for students interested in graduate schools tomorrow."
+        ],
+        "sentense_ja": [
+            "明日、大学院に興味がある学生向けの講習会が開かれる予定だ"
+        ]
+    },
+    {
+        "id": "0058",
+        "word": "consent",
+        "chants": [
+            "(〜に対する)同意",
+            "許可",
+            "〜に同意する"
+        ],
+        "phrase_en": [
+            "give one's consent to ~",
+            "without parental consent"
+        ],
+        "phrase_ja": [
+            "〜に同意する",
+            "親の許可なしに"
+        ],
+        "sentense_en": [
+            "By common consent, Mr. Foster was chosen as chairman."
+        ],
+        "sentense_ja": [
+            "全会一致でフォスター氏は議長に選ばれた"
+        ]
+    },
+    {
+        "id": "0059",
+        "word": "obligation",
+        "chants": [
+            "義務",
+            "責任"
+        ],
+        "phrase_en": [
+            "be under no obligation to do ~",
+            "a sense of obligation"
+        ],
+        "phrase_ja": [
+            "〜する義務はない",
+            "責任感"
+        ],
+        "sentense_en": [
+            "Parents have an obligation to their children."
+        ],
+        "sentense_ja": [
+            "親は子どもに対する責任がある"
+        ]
+    },
+    {
+        "id": "0060",
+        "word": "precaution",
+        "chants": [
+            "(〜に対する)予防策",
+            "予防措置",
+            "警戒",
+            "用心"
+        ],
+        "phrase_en": [
+            "take the precaution of doing ~",
+            "as a precaution"
+        ],
+        "phrase_ja": [
+            "〜するという予防策を取る",
+            "用心のため"
+        ],
+        "sentense_en": [
+            "All the workers must follow safety precautions."
+        ],
+        "sentense_ja": [
+            "全作業員は安全対策に従わなければならない"
+        ]
+    },
+    {
+        "id": "0061",
+        "word": "reputation",
+        "chants": [
+            "評判",
+            "名声"
+        ],
+        "phrase_en": [
+            "a good [bad] reputation",
+            "earn [gain, win] a reputation"
+        ],
+        "phrase_ja": [
+            "好評[悪評]",
+            "名声を得る"
+        ],
+        "sentense_en": [
+            "He has a reputation for being strict."
+        ],
+        "sentense_ja": [
+            "彼は厳しいという評判だ"
+        ]
+    },
+    {
+        "id": "0062",
+        "word": "resident",
+        "chants": [
+            "居住者",
+            "在住者",
+            "居住している"
+        ],
+        "phrase_en": [
+            "a resident of Australia"
+        ],
+        "phrase_ja": [
+            "オーストラリア在住者"
+        ],
+        "sentense_en": [
+            "The residents of the city protested the closure of the city hospital."
+        ],
+        "sentense_ja": [
+            "その市の住民は市立病院の閉鎖に抗議した"
+        ]
+    },
+    {
+        "id": "0063",
+        "word": "mechanic",
+        "chants": [
+            "整備士",
+            "修理工"
+        ],
+        "phrase_en": [
+            "a car mechanic"
+        ],
+        "phrase_ja": [
+            "自動車整備士"
+        ],
+        "sentense_en": [
+            "He is a highly experienced mechanic."
+        ],
+        "sentense_ja": [
+            "彼は非常に経験豊富な整備士だ"
+        ]
+    },
+    {
+        "id": "0064",
+        "word": "neighborhood",
+        "chants": [
+            "(ある特定の)地域",
+            "近所",
+            "近隣",
+            "近所の人々"
+        ],
+        "phrase_en": [
+            "a dangerous neighborhood",
+            "live in the neighborhood of ~"
+        ],
+        "phrase_ja": [
+            "危険地域",
+            "〜の近くに住んでいる"
+        ],
+        "sentense_en": [
+            "This is a safe and quiet neighborhood."
+        ],
+        "sentense_ja": [
+            "ここは安全で閑静な地域だ"
+        ]
+    },
+    {
+        "id": "0065",
+        "word": "masterpiece",
+        "chants": [
+            "最高傑作",
+            "傑作",
+            "代表作"
+        ],
+        "phrase_en": [
+            "a masterpiece of Picasso's \"blue period\""
+        ],
+        "phrase_ja": [
+            "ピカソの「青の時代」の代表作"
+        ],
+        "sentense_en": [
+            "Beethoven's Ninth Symphony is regarded as one of his masterpieces."
+        ],
+        "sentense_ja": [
+            "ベートーベンの交響曲第9番は彼の傑作の1つとみなされている"
+        ]
+    },
+    {
+        "id": "0066",
+        "word": "blueprint",
+        "chants": [
+            "設計図",
+            "図面",
+            "詳細な計画",
+            "〜の設計図を作る",
+            "〜を計画する"
+        ],
+        "phrase_en": [
+            "a blueprint of the new city hall",
+            "a blueprint for success"
+        ],
+        "phrase_ja": [
+            "新しい市庁舎の設計図",
+            "成功への計画"
+        ],
+        "sentense_en": [
+            "The architect showed us a blueprint of our new house."
+        ],
+        "sentense_ja": [
+            "その建築家は新居の設計図を私たちに見せた"
+        ]
+    },
+    {
+        "id": "0067",
+        "word": "assignment",
+        "chants": [
+            "任務",
+            "仕事の割り当て",
+            "宿題",
+            "研究課題"
+        ],
+        "phrase_en": [
+            "assignment of the tasks",
+            "a math assignment"
+        ],
+        "phrase_ja": [
+            "仕事の割り当て",
+            "数学の宿題"
+        ],
+        "sentense_en": [
+            "I was given a tough assignment by my boss."
+        ],
+        "sentense_ja": [
+            "私は上司から難しい任務を与えられた"
+        ]
+    },
+    {
+        "id": "0068",
+        "word": "promotion",
+        "chants": [
+            "昇進",
+            "販売促進"
+        ],
+        "phrase_en": [
+            "get [gain] (a) promotion",
+            "a promotion campaign"
+        ],
+        "phrase_ja": [
+            "昇進する",
+            "販売促進運動"
+        ],
+        "sentense_en": [
+            "The company announced the promotion of Mr. Baker to vice president."
+        ],
+        "sentense_ja": [
+            "その会社はベーカー氏の副社長への昇進を発表した"
+        ]
+    },
+    {
+        "id": "0069",
+        "word": "dispute",
+        "chants": [
+            "論争",
+            "紛争",
+            "〜に反論[反対]する"
+        ],
+        "phrase_en": [
+            "a dispute over working conditions",
+            "a border dispute"
+        ],
+        "phrase_ja": [
+            "労働条件に関する論争",
+            "国境紛争"
+        ],
+        "sentense_en": [
+            "They will go on strike tomorrow if there is no resolution to the labor dispute."
+        ],
+        "sentense_ja": [
+            "労働争議が解決しない場合、彼らは明日ストライキに突入するつもりだ"
+        ]
+    },
+    {
+        "id": "0070",
+        "word": "excursion",
+        "chants": [
+            "遠足",
+            "小旅行"
+        ],
+        "phrase_en": [
+            "go on an excursion"
+        ],
+        "phrase_ja": [
+            "遠足に行く"
+        ],
+        "sentense_en": [
+            "There will be a whole school excursion on April 8."
+        ],
+        "sentense_ja": [
+            "4月8日に全校遠足が行われる予定だ"
+        ]
+    },
+    {
+        "id": "0071",
+        "word": "expansion",
+        "chants": [
+            "拡大",
+            "拡張"
+        ],
+        "phrase_en": [
+            "the expansion of the Internet",
+            "the expansion of the freeway"
+        ],
+        "phrase_ja": [
+            "インターネットの拡大",
+            "高速道路の拡張"
+        ],
+        "sentense_en": [
+            "Our boss is always talking about business expansion."
+        ],
+        "sentense_ja": [
+            "私たちの上司はいつも事業の拡大のことを話している"
+        ]
+    },
+    {
+        "id": "0072",
+        "word": "storage",
+        "chants": [
+            "保管",
+            "貯蔵",
+            "保管量",
+            "貯蔵量",
+            "保管所",
+            "貯蔵所"
+        ],
+        "phrase_en": [
+            "keep food in storage",
+            "data storage"
+        ],
+        "phrase_ja": [
+            "食料を保管している",
+            "データ保存量"
+        ],
+        "sentense_en": [
+            "The storage of radioactive material is done with extreme care."
+        ],
+        "sentense_ja": [
+            "放射性物質の保管は細心の注意を払って行われる"
+        ]
+    },
+    {
+        "id": "0073",
+        "word": "belonging",
+        "chants": [
+            "所持品",
+            "所有物"
+        ],
+        "phrase_en": [
+            "personal belongings"
+        ],
+        "phrase_ja": [
+            "私物"
+        ],
+        "sentense_en": [
+            "Always keep your belongings in sight."
+        ],
+        "sentense_ja": [
+            "常に所持品から目を離さないでください"
+        ]
+    },
+    {
+        "id": "0074",
+        "word": "evaluation",
+        "chants": [
+            "評価",
+            "査定"
+        ],
+        "phrase_en": [
+            "job evaluation"
+        ],
+        "phrase_ja": [
+            "勤務評価"
+        ],
+        "sentense_en": [
+            "He received positive evaluations from his supervisor."
+        ],
+        "sentense_ja": [
+            "彼は上司からよい評価を受けた"
+        ]
+    },
+    {
+        "id": "0075",
+        "word": "household",
+        "chants": [
+            "世帯",
+            "家庭",
+            "家族",
+            "家庭の",
+            "世帯の",
+            "家族の",
+            "おなじみの"
+        ],
+        "phrase_en": [
+            "a general household",
+            "the head of household"
+        ],
+        "phrase_ja": [
+            "一般世帯",
+            "世帯主"
+        ],
+        "sentense_en": [
+            "Most households have at least one computer."
+        ],
+        "sentense_ja": [
+            "ほとんどの世帯には少なくとも1台コンピューターがある"
+        ]
+    },
+    {
+        "id": "0076",
+        "word": "investment",
+        "chants": [
+            "投資",
+            "出資"
+        ],
+        "phrase_en": [
+            "a long-term [short-term] investment",
+            "capital investment"
+        ],
+        "phrase_ja": [
+            "長期[短期]投資",
+            "資本投資"
+        ],
+        "sentense_en": [
+            "My financial adviser warned me against such a risky investment."
+        ],
+        "sentense_ja": [
+            "私の投資顧問はそのような危険な投資には注意するよう私に言った"
+        ]
+    },
+    {
+        "id": "0077",
+        "word": "reception",
+        "chants": [
+            "歓迎会",
+            "宴会",
+            "受け入れること",
+            "受付",
+            "フロント"
+        ],
+        "phrase_en": [
+            "a wedding reception",
+            "receive a warm [cool] reception"
+        ],
+        "phrase_ja": [
+            "結婚披露宴",
+            "温かく[冷たく]迎えられる"
+        ],
+        "sentense_en": [
+            "There will be a reception for new students from 4 to 6 p.m. today in the gymnasium."
+        ],
+        "sentense_ja": [
+            "今日の午後4時から6時まで、体育館で新入生の歓迎会がある"
+        ]
+    },
+    {
+        "id": "0078",
+        "word": "receptionist",
+        "chants": [
+            "受付係"
+        ],
+        "phrase_en": [
+            "a hotel receptionist"
+        ],
+        "phrase_ja": [
+            "ホテルの受付係"
+        ],
+        "sentense_en": [
+            "Lisa got a job as a receptionist."
+        ],
+        "sentense_ja": [
+            "リーサは受付係の仕事に就いた"
+        ]
+    },
+    {
+        "id": "0079",
+        "word": "region",
+        "chants": [
+            "地域",
+            "地方"
+        ],
+        "phrase_en": [
+            "desert [mountain] regions"
+        ],
+        "phrase_ja": [
+            "砂漠[山岳]地域"
+        ],
+        "sentense_en": [
+            "Emergency supplies were sent to the disaster-stricken region."
+        ],
+        "sentense_ja": [
+            "緊急物資がその被災地域に送られた"
+        ]
+    },
+    {
+        "id": "0080",
+        "word": "site",
+        "chants": [
+            "場所",
+            "位置",
+            "用地",
+            "現場",
+            "サイト"
+        ],
+        "phrase_en": [
+            "the site for the new mall",
+            "the site of the accident"
+        ],
+        "phrase_ja": [
+            "新しいショッピングセンターの用地",
+            "その事故の現場"
+        ],
+        "sentense_en": [
+            "The men are working at the building site."
+        ],
+        "sentense_ja": [
+            "男たちは建設現場で働いている"
+        ]
+    },
+    {
+        "id": "0081",
+        "word": "capacity",
+        "chants": [
+            "生産能力",
+            "収容能力",
+            "容量",
+            "能力"
+        ],
+        "phrase_en": [
+            "at full capacity",
+            "a seating capacity of 1,000"
+        ],
+        "phrase_ja": [
+            "フル操業で",
+            "1000人分の座席"
+        ],
+        "sentense_en": [
+            "The factory has the capacity to manufacture 500 cars a day."
+        ],
+        "sentense_ja": [
+            "その工場は1日に500台の車を作る生産能力がある"
+        ]
+    },
+    {
+        "id": "0082",
+        "word": "convention",
+        "chants": [
+            "代表者会議",
+            "大会",
+            "慣習",
+            "慣例"
+        ],
+        "phrase_en": [
+            "an annual convention",
+            "by convention"
+        ],
+        "phrase_ja": [
+            "年次大会",
+            "慣例に従って"
+        ],
+        "sentense_en": [
+            "The Democratic Party convention will be held in Chicago next month."
+        ],
+        "sentense_ja": [
+            "来月、民主党の党大会がシカゴで開催される"
+        ]
+    },
+    {
+        "id": "0083",
+        "word": "draft",
+        "chants": [
+            "草稿",
+            "下書き",
+            "為替手形",
+            "小切手",
+            "すきま風",
+            "〜の草稿を書く",
+            "〜を起草する",
+            "〜を徴兵する"
+        ],
+        "phrase_en": [
+            "the first draft",
+            "a bank draft"
+        ],
+        "phrase_ja": [
+            "第一草稿、最初の下書き",
+            "銀行為替手形"
+        ],
+        "sentense_en": [
+            "I asked my teacher to check the draft of my speech."
+        ],
+        "sentense_ja": [
+            "私はスピーチの草稿をチェックしてくれるよう先生に頼んだ"
+        ]
+    },
+    {
+        "id": "0084",
+        "word": "quantity",
+        "chants": [
+            "数量",
+            "分量",
+            "多量",
+            "多数"
+        ],
+        "phrase_en": [
+            "quantity of purchase",
+            "in quantity"
+        ],
+        "phrase_ja": [
+            "購買数",
+            "大量[多量]に"
+        ],
+        "sentense_en": [
+            "The price varies depending on the quantity you order."
+        ],
+        "sentense_ja": [
+            "価格は注文する数によって変わる"
+        ]
+    },
+    {
+        "id": "0085",
+        "word": "achievement",
+        "chants": [
+            "業績",
+            "達成"
+        ],
+        "phrase_en": [
+            "a remarkable achievement",
+            "a sense of achievement"
+        ],
+        "phrase_ja": [
+            "注目すべき業績",
+            "達成感"
+        ],
+        "sentense_en": [
+            "You should highlight your achievements and skills in your résumé."
+        ],
+        "sentense_ja": [
+            "あなたは自分の業績と技能を履歴書の中で強調したほうがいい"
+        ]
+    },
+    {
+        "id": "0086",
+        "word": "consequence",
+        "chants": [
+            "結果",
+            "影響"
+        ],
+        "phrase_en": [
+            "the consequences of the mismanagement",
+            "as a consequence of ~"
+        ],
+        "phrase_ja": [
+            "経営ミスの結果",
+            "〜の結果として"
+        ],
+        "sentense_en": [
+            "You should take responsibility for the consequences of your actions."
+        ],
+        "sentense_ja": [
+            "あなたは自分が取った行動の結果に対して責任を取るべきだ"
+        ]
+    },
+    {
+        "id": "0087",
+        "word": "premise",
+        "chants": [
+            "敷地",
+            "土地",
+            "構内",
+            "前提",
+            "仮定",
+            "〜を前提とする",
+            "〜を仮定する"
+        ],
+        "phrase_en": [
+            "on [off] the premises",
+            "on the premise that ~"
+        ],
+        "phrase_ja": [
+            "敷地内[外]で",
+            "〜という前提で"
+        ],
+        "sentense_en": [
+            "Smoking is not permitted on the premises."
+        ],
+        "sentense_ja": [
+            "敷地内では喫煙は認められていない"
+        ]
+    },
+    {
+        "id": "0088",
+        "word": "priority",
+        "chants": [
+            "優先事項",
+            "優先(権)"
+        ],
+        "phrase_en": [
+            "establish priorities",
+            "have [take, get] priority over ~"
+        ],
+        "phrase_ja": [
+            "優先事項を設ける",
+            "〜に優先する"
+        ],
+        "sentense_en": [
+            "The government's first priority now is to stimulate the domestic economy."
+        ],
+        "sentense_ja": [
+            "政府の今の最優先事項は国内経済を刺激することだ"
+        ]
+    },
+    {
+        "id": "0089",
+        "word": "assessment",
+        "chants": [
+            "評価",
+            "査定"
+        ],
+        "phrase_en": [
+            "environmental assessment",
+            "a tax assessment"
+        ],
+        "phrase_ja": [
+            "環境アセスメント、環境影響評価",
+            "税額の査定"
+        ],
+        "sentense_en": [
+            "His assessment of the situation was fairly accurate."
+        ],
+        "sentense_ja": [
+            "彼の状況評価はまあまあ正確だった"
+        ]
+    },
+    {
+        "id": "0090",
+        "word": "architecture",
+        "chants": [
+            "建築様式",
+            "建築",
+            "建築学",
+            "建築術"
+        ],
+        "phrase_en": [
+            "modern architecture",
+            "study architecture"
+        ],
+        "phrase_ja": [
+            "現代の建築様式",
+            "建築学を学ぶ"
+        ],
+        "sentense_en": [
+            "She is interested in the Islamic architecture."
+        ],
+        "sentense_ja": [
+            "彼女はイスラムの建築様式に関心を持っている"
+        ]
+    },
+    {
+        "id": "0091",
+        "word": "electrician",
+        "chants": [
+            "電気技師",
+            "電気工"
+        ],
+        "phrase_en": [
+            "a skilled electrician"
+        ],
+        "phrase_ja": [
+            "腕のよい電気技師"
+        ],
+        "sentense_en": [
+            "Two electricians are coming to rewire the office tomorrow."
+        ],
+        "sentense_ja": [
+            "明日、2人の電気技師が事務所の配線変更工事に来る予定だ"
+        ]
+    },
+    {
+        "id": "0092",
+        "word": "asset",
+        "chants": [
+            "資産",
+            "財産"
+        ],
+        "phrase_en": [
+            "liquid [fixed] assets"
+        ],
+        "phrase_ja": [
+            "流動[固定]資産"
+        ],
+        "sentense_en": [
+            "The company has $2.5 billion in assets."
+        ],
+        "sentense_ja": [
+            "その会社は25億ドルの資産を持っている"
+        ]
+    },
+    {
+        "id": "0093",
+        "word": "retirement",
+        "chants": [
+            "退職",
+            "引退"
+        ],
+        "phrase_en": [
+            "take early retirement"
+        ],
+        "phrase_ja": [
+            "早期退職する"
+        ],
+        "sentense_en": [
+            "Mr. Suzuki has five years to go before retirement."
+        ],
+        "sentense_ja": [
+            "スズキさんは退職まであと5年ある"
+        ]
+    },
+    {
+        "id": "0094",
+        "word": "aisle",
+        "chants": [
+            "通路"
+        ],
+        "phrase_en": [
+            "the middle aisle of the church"
+        ],
+        "phrase_ja": [
+            "教会の中央通路"
+        ],
+        "sentense_en": [
+            "Would you like an aisle or a window seat?"
+        ],
+        "sentense_ja": [
+            "通路側と窓側のどちらの席がよろしいですか？"
+        ]
+    },
+    {
+        "id": "0095",
+        "word": "defect",
+        "chants": [
+            "欠陥",
+            "欠点"
+        ],
+        "phrase_en": [
+            "a defect in the engine"
+        ],
+        "phrase_ja": [
+            "エンジンの欠陥"
+        ],
+        "sentense_en": [
+            "All the products are tested for defects before they are shipped."
+        ],
+        "sentense_ja": [
+            "すべての製品は出荷される前に欠陥がないか検査される"
+        ]
+    },
+    {
+        "id": "0096",
+        "word": "physician",
+        "chants": [
+            "医者",
+            "内科医"
+        ],
+        "phrase_en": [
+            "consult a physician"
+        ],
+        "phrase_ja": [
+            "医者に診てもらう"
+        ],
+        "sentense_en": [
+            "She is a physician by profession."
+        ],
+        "sentense_ja": [
+            "彼女の職業は医者だ"
+        ]
+    },
+    {
+        "id": "0097",
+        "word": "prospect",
+        "chants": [
+            "見込み",
+            "可能性"
+        ],
+        "phrase_en": [
+            "prospects of promotion",
+            "in prospect"
+        ],
+        "phrase_ja": [
+            "昇進の見込み",
+            "予想されて"
+        ],
+        "sentense_en": [
+            "Is there any prospect of economic recovery next year?"
+        ],
+        "sentense_ja": [
+            "来年、景気が回復する見込みはありますか？"
+        ]
+    },
+    {
+        "id": "0098",
+        "word": "administration",
+        "chants": [
+            "管理",
+            "経営",
+            "行政",
+            "政府",
+            "内閣"
+        ],
+        "phrase_en": [
+            "business administration",
+            "the Obama administration"
+        ],
+        "phrase_ja": [
+            "企業経営",
+            "オバマ政権"
+        ],
+        "sentense_en": [
+            "He has 30 years' extensive experience in administration."
+        ],
+        "sentense_ja": [
+            "彼には30年にわたる幅広い管理の経験がある"
+        ]
+    },
+    {
+        "id": "0099",
+        "word": "anniversary",
+        "chants": [
+            "記念日"
+        ],
+        "phrase_en": [
+            "the 100th anniversary of the revolution"
+        ],
+        "phrase_ja": [
+            "革命100周年記念日"
+        ],
+        "sentense_en": [
+            "We celebrated our 10th wedding anniversary yesterday."
+        ],
+        "sentense_ja": [
+            "私たちは昨日、私たちの結婚10周年の記念日を祝った"
+        ]
+    },
+    {
+        "id": "0100",
+        "word": "debate",
+        "chants": [
+            "議論",
+            "討論",
+            "〜を討論する",
+            "〜を議論する"
+        ],
+        "phrase_en": [
+            "debate on global warming",
+            "be under debate"
+        ],
+        "phrase_ja": [
+            "地球温暖化に関する議論",
+            "論争中である"
+        ],
+        "sentense_en": [
+            "There has been a heated debate on the issue."
+        ],
+        "sentense_ja": [
+            "その問題に関しては白熱した議論が交わされてきた"
+        ]
+    },
+    {
+        "id": "0101",
+        "word": "portion",
+        "chants": [
+            "一部",
+            "部分",
+            "1人前"
+        ],
+        "phrase_en": [
+            "the first portion of the movie",
+            "four portions of chips"
+        ],
+        "phrase_ja": [
+            "その映画の最初の部分",
+            "4人前のチップス"
+        ],
+        "sentense_en": [
+            "A large portion of the workforce in the country is made up of immigrants."
+        ],
+        "sentense_ja": [
+            "その国の労働力の大部分は移民で構成されている"
+        ]
+    },
+    {
+        "id": "0102",
+        "word": "source",
+        "chants": [
+            "源",
+            "原因"
+        ],
+        "phrase_en": [
+            "a source of energy [information]",
+            "the source of the problem"
+        ],
+        "phrase_ja": [
+            "エネルギー[情報]源",
+            "その問題の原因"
+        ],
+        "sentense_en": [
+            "Fruit is a very good source of vitamin C."
+        ],
+        "sentense_ja": [
+            "果物は非常に優れたビタミンC源だ"
+        ]
+    },
+    {
+        "id": "0103",
+        "word": "statistics",
+        "chants": [
+            "統計",
+            "統計学"
+        ],
+        "phrase_en": [
+            "crime [demographic] statistics"
+        ],
+        "phrase_ja": [
+            "犯罪[人口]統計"
+        ],
+        "sentense_en": [
+            "Statistics show that unemployment rates increased significantly over the past two months."
+        ],
+        "sentense_ja": [
+            "統計では、この2カ月で失業率が著しく上昇したことが明らかになっている"
+        ]
+    },
+    {
+        "id": "0104",
+        "word": "status",
+        "chants": [
+            "状態",
+            "状況",
+            "地位",
+            "身分"
+        ],
+        "phrase_en": [
+            "the future status of the world",
+            "social status"
+        ],
+        "phrase_ja": [
+            "将来の世界情勢",
+            "社会的地位"
+        ],
+        "sentense_en": [
+            "He didn't comment on the status of negotiations."
+        ],
+        "sentense_ja": [
+            "彼は交渉状況についてコメントしなかった"
+        ]
+    },
+    {
+        "id": "0105",
+        "word": "critic",
+        "chants": [
+            "評論家",
+            "批評家"
+        ],
+        "phrase_en": [
+            "a food [film] critic"
+        ],
+        "phrase_ja": [
+            "料理[映画]評論家"
+        ],
+        "sentense_en": [
+            "The movie was favorably received by the critics."
+        ],
+        "sentense_ja": [
+            "その映画は評論家たちに好意的に受け止められた"
+        ]
+    },
+    {
+        "id": "0106",
+        "word": "garment",
+        "chants": [
+            "衣服",
+            "衣類"
+        ],
+        "phrase_en": [
+            "a sports garment",
+            "the garment industry"
+        ],
+        "phrase_ja": [
+            "スポーツウエア",
+            "衣料産業"
+        ],
+        "sentense_en": [
+            "The store carries suits, dresses, and other garments."
+        ],
+        "sentense_ja": [
+            "その店はスーツ、ドレス、そしてその他の衣類を扱っている"
+        ]
+    },
+    {
+        "id": "0107",
+        "word": "qualification",
+        "chants": [
+            "資格",
+            "適性",
+            "資質"
+        ],
+        "phrase_en": [
+            "a qualification to teach English",
+            "a necessary qualification for the job"
+        ],
+        "phrase_ja": [
+            "英語を教える資格",
+            "その仕事に必要な適性"
+        ],
+        "sentense_en": [
+            "You need qualifications to get a good job."
+        ],
+        "sentense_ja": [
+            "いい仕事を得るには資格が必要だ"
+        ]
+    },
+    {
+        "id": "0108",
+        "word": "reference",
+        "chants": [
+            "言及",
+            "参照",
+            "推薦状"
+        ],
+        "phrase_en": [
+            "with [in] reference to ~",
+            "for future reference"
+        ],
+        "phrase_ja": [
+            "〜に関して",
+            "今後の参考のために"
+        ],
+        "sentense_en": [
+            "He made no reference to the project."
+        ],
+        "sentense_ja": [
+            "彼はそのプロジェクトに関して何も言及しなかった"
+        ]
+    },
+    {
+        "id": "0109",
+        "word": "session",
+        "chants": [
+            "会合",
+            "会議",
+            "会期",
+            "学期"
+        ],
+        "phrase_en": [
+            "a morning session",
+            "in [out of] session"
+        ],
+        "phrase_ja": [
+            "朝会",
+            "開会[閉会]中で"
+        ],
+        "sentense_en": [
+            "We will have a planning session tomorrow."
+        ],
+        "sentense_ja": [
+            "私たちは明日、企画会議を開く予定だ"
+        ]
+    },
+    {
+        "id": "0110",
+        "word": "stain",
+        "chants": [
+            "染み",
+            "汚れ",
+            "汚点",
+            "〜を汚す",
+            "〜に染みをつける"
+        ],
+        "phrase_en": [
+            "a coffee [an ink] stain",
+            "a stain on one's reputation"
+        ],
+        "phrase_ja": [
+            "コーヒー[インク]の染み",
+            "評判についた汚点"
+        ],
+        "sentense_en": [
+            "Do you know how to remove a wine stain from carpet?"
+        ],
+        "sentense_ja": [
+            "じゅうたんからワインの染みをどうやって取るか知っていますか？"
+        ]
+    },
+    {
+        "id": "0111",
+        "word": "substitute",
+        "chants": [
+            "代わりの人",
+            "代用品",
+            "〜の代わりをする"
+        ],
+        "phrase_en": [
+            "use A as a substitute for B"
+        ],
+        "phrase_ja": [
+            "Bの代わりにAを使う"
+        ],
+        "sentense_en": [
+            "There is no substitute for him."
+        ],
+        "sentense_ja": [
+            "彼に代わる人はいない"
+        ]
+    },
+    {
+        "id": "0112",
+        "word": "utility",
+        "chants": [
+            "公共料金",
+            "公共施設",
+            "有用性",
+            "実用性",
+            "有用な",
+            "実用的な",
+            "複数の機能を持つ"
+        ],
+        "phrase_en": [
+            "a utility company",
+            "be of no utility"
+        ],
+        "phrase_ja": [
+            "公益事業会社",
+            "役に立たない"
+        ],
+        "sentense_en": [
+            "The rent includes utilities."
+        ],
+        "sentense_ja": [
+            "その家賃には公共料金が含まれている"
+        ]
+    },
+    {
+        "id": "0113",
+        "word": "appreciation",
+        "chants": [
+            "感謝",
+            "正しい理解",
+            "値上がり",
+            "騰貴"
+        ],
+        "phrase_en": [
+            "in appreciation of ~",
+            "have an appreciation of the situation"
+        ],
+        "phrase_ja": [
+            "〜に感謝して",
+            "状況を正しく理解している"
+        ],
+        "sentense_en": [
+            "I'd like to show my appreciation for your cooperation."
+        ],
+        "sentense_ja": [
+            "あなたの協力に感謝の意を表したいと思います"
+        ]
+    },
+    {
+        "id": "0114",
+        "word": "aspect",
+        "chants": [
+            "側面",
+            "局面",
+            "状況"
+        ],
+        "phrase_en": [
+            "various aspects of the problem"
+        ],
+        "phrase_ja": [
+            "その問題のさまざまな側面"
+        ],
+        "sentense_en": [
+            "You need to study all aspects of business to get an MBA."
+        ],
+        "sentense_ja": [
+            "MBAを取得するためには、ビジネスのあらゆる側面を学ぶ必要がある"
+        ]
+    },
+    {
+        "id": "0115",
+        "word": "checkup",
+        "chants": [
+            "健康診断",
+            "検査"
+        ],
+        "phrase_en": [
+            "a regular checkup",
+            "give ~ a checkup"
+        ],
+        "phrase_ja": [
+            "定期的な健康診断",
+            "〜を検査する"
+        ],
+        "sentense_en": [
+            "Have you already had this year's checkup?"
+        ],
+        "sentense_ja": [
+            "今年の健康診断はもう受けましたか？"
+        ]
+    },
+    {
+        "id": "0116",
+        "word": "manuscript",
+        "chants": [
+            "原稿"
+        ],
+        "phrase_en": [
+            "an unpublished manuscript",
+            "be in manuscript"
+        ],
+        "phrase_ja": [
+            "未発表の原稿",
+            "原稿のままである、未発表である"
+        ],
+        "sentense_en": [
+            "The editor made a lot of corrections to the manuscript."
+        ],
+        "sentense_ja": [
+            "その編集者は原稿に多くの修正を入れた"
+        ]
+    },
+    {
+        "id": "0117",
+        "word": "perspective",
+        "chants": [
+            "観点",
+            "視点",
+            "総合的な見方",
+            "遠近法"
+        ],
+        "phrase_en": [
+            "from a historical perspective",
+            "get the situation in perspective"
+        ],
+        "phrase_ja": [
+            "歴史的な観点から",
+            "状況を総合的にとらえる"
+        ],
+        "sentense_en": [
+            "The construction of the power plant seems to be a bad thing from an environmental perspective."
+        ],
+        "sentense_ja": [
+            "発電所の建設は環境の観点からは悪いことのように思える"
+        ]
+    },
+    {
+        "id": "0118",
+        "word": "postage",
+        "chants": [
+            "郵便料金"
+        ],
+        "phrase_en": [
+            "postage free [due]"
+        ],
+        "phrase_ja": [
+            "郵便料金無料[不足]"
+        ],
+        "sentense_en": [
+            "Postage is extra."
+        ],
+        "sentense_ja": [
+            "郵便料金は別途必要だ"
+        ]
+    },
+    {
+        "id": "0119",
+        "word": "privilege",
+        "chants": [
+            "特権",
+            "特典",
+            "名誉",
+            "〜に特権を与える"
+        ],
+        "phrase_en": [
+            "diplomatic privileges",
+            "have the privilege of doing ~"
+        ],
+        "phrase_ja": [
+            "外交特権",
+            "〜する特権[名誉]を与えられる"
+        ],
+        "sentense_en": [
+            "Education should be a right, not a privilege."
+        ],
+        "sentense_ja": [
+            "教育は特権ではなく、権利であるべきだ"
+        ]
+    },
+    {
+        "id": "0120",
+        "word": "requirement",
+        "chants": [
+            "必要条件",
+            "資格"
+        ],
+        "phrase_en": [
+            "requirements for the job",
+            "college entry requirements"
+        ],
+        "phrase_ja": [
+            "その職の採用条件",
+            "大学入学資格"
+        ]
+    },
+    {
+        "id": "0121",
+        "word": "cashier",
+        "chants": [
+            "レジ係",
+            "会計係",
+            "出納係"
+        ],
+        "phrase_en": [
+            "a cashier at a convenience store",
+            "a cashier's window"
+        ],
+        "phrase_ja": [
+            "コンビニエンスストアのレジ係",
+            "出納窓口"
+        ],
+        "sentense_en": [
+            "The cashier is standing behind the counter."
+        ],
+        "sentense_ja": [
+            "レジ係はカウンターの後ろに立っている"
+        ]
+    },
+    {
+        "id": "0122",
+        "word": "conflict",
+        "chants": [
+            "対立",
+            "葛藤",
+            "争い",
+            "対立する",
+            "矛盾する",
+            "衝突する"
+        ],
+        "phrase_en": [
+            "conflict between labor and management",
+            "bring A into conflict with B"
+        ],
+        "phrase_ja": [
+            "労使間の対立",
+            "AをBと対立させる"
+        ],
+        "sentense_en": [
+            "There was a lot of conflict between her and her mother."
+        ],
+        "sentense_ja": [
+            "彼女と彼女の母親との間には多くの葛藤があった"
+        ]
+    },
+    {
+        "id": "0123",
+        "word": "decade",
+        "chants": [
+            "10年間"
+        ],
+        "phrase_en": [
+            "for two [three] decades"
+        ],
+        "phrase_ja": [
+            "20[30]年間"
+        ],
+        "sentense_en": [
+            "The world economy has dramatically changed over the past few decades."
+        ],
+        "sentense_ja": [
+            "ここ数十年の間に世界経済は劇的に変化した"
+        ]
+    },
+    {
+        "id": "0124",
+        "word": "human resources",
+        "chants": [
+            "人事部",
+            "人事課",
+            "人的資源"
+        ],
+        "phrase_en": [
+            "the head of human resources",
+            "adequate human resources"
+        ],
+        "phrase_ja": [
+            "人事部長",
+            "十分な人的資源"
+        ],
+        "sentense_en": [
+            "She works in human resources."
+        ],
+        "sentense_ja": [
+            "彼女は人事部で働いている"
+        ]
+    },
+    {
+        "id": "0125",
+        "word": "expectation",
+        "chants": [
+            "期待",
+            "予想"
+        ],
+        "phrase_en": [
+            "below [beyond] expectation(s)",
+            "in expectation of ~"
+        ],
+        "phrase_ja": [
+            "期待[予想]以下[以上]で",
+            "〜を見越して、期待して"
+        ],
+        "sentense_en": [
+            "The concert has exceeded my expectations."
+        ],
+        "sentense_ja": [
+            "そのコンサートは私の期待を上回るものだった"
+        ]
+    },
+    {
+        "id": "0126",
+        "word": "interval",
+        "chants": [
+            "間隔",
+            "合間"
+        ],
+        "phrase_en": [
+            "the intervals between major earthquakes",
+            "at 10-minute intervals"
+        ],
+        "phrase_ja": [
+            "大地震と大地震の間隔",
+            "10分間隔で"
+        ],
+        "sentense_en": [
+            "The meetings take place at two-weekly intervals."
+        ],
+        "sentense_ja": [
+            "その会議は2週間隔で開催される"
+        ]
+    },
+    {
+        "id": "0127",
+        "word": "drawing",
+        "chants": [
+            "スケッチ",
+            "デッサン",
+            "くじ引き",
+            "抽選"
+        ],
+        "phrase_en": [
+            "a drawing pad",
+            "prize drawing"
+        ],
+        "phrase_ja": [
+            "スケッチブック",
+            "賞品[賞金]の抽選"
+        ],
+        "sentense_en": [
+            "The woman is making a drawing of the view."
+        ],
+        "sentense_ja": [
+            "女性は景色をスケッチしている"
+        ]
+    },
+    {
+        "id": "0128",
+        "word": "factor",
+        "chants": [
+            "要因",
+            "要素",
+            "(要素など)を計算に入れる"
+        ],
+        "phrase_en": [
+            "a factor in the accident",
+            "a key [crucial] factor"
+        ],
+        "phrase_ja": [
+            "事故の要因",
+            "鍵となる[重大な]要因"
+        ],
+        "sentense_en": [
+            "What were the factors in your success?"
+        ],
+        "sentense_ja": [
+            "あなたの成功の要因は何でしたか？"
+        ]
+    },
+    {
+        "id": "0129",
+        "word": "inspector",
+        "chants": [
+            "検査官",
+            "調査官"
+        ],
+        "phrase_en": [
+            "a safety inspector"
+        ],
+        "phrase_ja": [
+            "安全検査官"
+        ],
+        "sentense_en": [
+            "The inspectors found several serious flaws in the building."
+        ],
+        "sentense_ja": [
+            "検査官たちはそのビルにいくつかの深刻な欠陥を発見した"
+        ]
+    },
+    {
+        "id": "0130",
+        "word": "compliment",
+        "chants": [
+            "褒め言葉",
+            "賛辞",
+            "お世辞",
+            "〜を褒める"
+        ],
+        "phrase_en": [
+            "pay her a compliment",
+            "return the compliment"
+        ],
+        "phrase_ja": [
+            "彼女を褒める",
+            "褒め返す、返礼する"
+        ],
+        "sentense_en": [
+            "She got lots of compliments on her coat."
+        ],
+        "sentense_ja": [
+            "たくさんの人が彼女のコートを褒めた"
+        ]
+    },
+    {
+        "id": "0131",
+        "word": "division",
+        "chants": [
+            "部局",
+            "部門",
+            "分割",
+            "割り算"
+        ],
+        "phrase_en": [
+            "the sales division",
+            "the division of powers"
+        ],
+        "phrase_ja": [
+            "販売部門",
+            "権力の分割"
+        ],
+        "sentense_en": [
+            "She works in the advertising division of the company."
+        ],
+        "sentense_ja": [
+            "彼女はその会社の広告部に勤務している"
+        ]
+    },
+    {
+        "id": "0132",
+        "word": "circumstance",
+        "chants": [
+            "状況",
+            "事情"
+        ],
+        "phrase_en": [
+            "under the circumstances",
+            "under any circumstances"
+        ],
+        "phrase_ja": [
+            "こういう状況[事情]では",
+            "どのような事情でも"
+        ],
+        "sentense_en": [
+            "He was able to cope with the problem under exceptional circumstances."
+        ],
+        "sentense_ja": [
+            "異例の事態の下でも彼はその問題に対処することができた"
+        ]
+    },
+    {
+        "id": "0133",
+        "word": "contribution",
+        "chants": [
+            "貢献",
+            "寄与",
+            "寄付",
+            "寄付金"
+        ],
+        "phrase_en": [
+            "make a contribution to ~",
+            "contributions to charities"
+        ],
+        "phrase_ja": [
+            "〜に貢献する",
+            "慈善団体への寄付金"
+        ],
+        "sentense_en": [
+            "She made a major contribution to the project."
+        ],
+        "sentense_ja": [
+            "彼女はそのプロジェクトに大きく貢献した"
+        ]
+    },
+    {
+        "id": "0134",
+        "word": "inspection",
+        "chants": [
+            "視察",
+            "調査",
+            "監査"
+        ],
+        "phrase_en": [
+            "an inspection of the nuclear plant"
+        ],
+        "phrase_ja": [
+            "原子力発電所の査察"
+        ],
+        "sentense_en": [
+            "The officials made a safety inspection of the building."
+        ],
+        "sentense_ja": [
+            "当局はそのビルの安全調査を行った"
+        ]
+    },
+    {
+        "id": "0135",
+        "word": "resource",
+        "chants": [
+            "資源",
+            "財産"
+        ],
+        "phrase_en": [
+            "natural [human] resources"
+        ],
+        "phrase_ja": [
+            "天然[人的]資源"
+        ],
+        "sentense_en": [
+            "Mineral resources include coal, gold, copper, and other heavy metals."
+        ],
+        "sentense_ja": [
+            "鉱物資源には、石炭、金、銅や、そのほかの重金属が含まれる"
+        ]
+    },
+    {
+        "id": "0136",
+        "word": "transition",
+        "chants": [
+            "移行",
+            "変遷",
+            "過渡期"
+        ],
+        "phrase_en": [
+            "make the transition from a dictatorship to a democracy",
+            "in transition"
+        ],
+        "phrase_ja": [
+            "独裁体制から民主制へと移行する",
+            "過渡期にある"
+        ],
+        "sentense_en": [
+            "China is in transition to market socialism."
+        ],
+        "sentense_ja": [
+            "中国は市場社会主義への過渡期にある"
+        ]
+    },
+    {
+        "id": "0137",
+        "word": "advertising",
+        "chants": [
+            "広告",
+            "広告業"
+        ],
+        "phrase_en": [
+            "corporate advertising",
+            "a career in advertising"
+        ],
+        "phrase_ja": [
+            "企業広告",
+            "広告業の仕事"
+        ],
+        "sentense_en": [
+            "She got a job in the advertising industry."
+        ],
+        "sentense_ja": [
+            "彼女は広告業界に就職した"
+        ]
+    },
+    {
+        "id": "0138",
+        "word": "approval",
+        "chants": [
+            "承認",
+            "賛成",
+            "認可"
+        ],
+        "phrase_en": [
+            "receive [win] approval"
+        ],
+        "phrase_ja": [
+            "承認を得る"
+        ],
+        "sentense_en": [
+            "The loan approval process is very complicated."
+        ],
+        "sentense_ja": [
+            "その融資の承認プロセスは非常に複雑だ"
+        ]
+    },
+    {
+        "id": "0139",
+        "word": "assembly",
+        "chants": [
+            "組み立て",
+            "組み立て作業",
+            "集会",
+            "会合"
+        ],
+        "phrase_en": [
+            "an assembly line",
+            "freedom of assembly"
+        ],
+        "phrase_ja": [
+            "組み立て[生産]ライン",
+            "集会の自由"
+        ],
+        "sentense_en": [
+            "The automaker announced that it would close its two assembly plants in Europe."
+        ],
+        "sentense_ja": [
+            "その自動車会社はヨーロッパにある2つの組み立て工場の閉鎖を発表した"
+        ]
+    },
+    {
+        "id": "0140",
+        "word": "code",
+        "chants": [
+            "規則",
+            "記号",
+            "番号",
+            "〜を暗号にする"
+        ],
+        "phrase_en": [
+            "a code of ethics",
+            "an area code"
+        ],
+        "phrase_ja": [
+            "倫理規範",
+            "市外局番"
+        ],
+        "sentense_en": [
+            "The high school's dress code is very strict."
+        ],
+        "sentense_ja": [
+            "その高校の服装規則はとても厳しい"
+        ]
+    },
+    {
+        "id": "0141",
+        "word": "compensation",
+        "chants": [
+            "補償",
+            "賠償",
+            "補償金",
+            "賠償金",
+            "報酬"
+        ],
+        "phrase_en": [
+            "compensation for the damage",
+            "pay compensation"
+        ],
+        "phrase_ja": [
+            "損害に対する補償",
+            "補償金を支払う"
+        ],
+        "sentense_en": [
+            "He received $2,000 in compensation for the injury."
+        ],
+        "sentense_ja": [
+            "彼はそのけがの補償金として2000ドルを受け取った"
+        ]
+    },
+    {
+        "id": "0142",
+        "word": "consideration",
+        "chants": [
+            "考慮",
+            "考察",
+            "思いやり"
+        ],
+        "phrase_en": [
+            "give serious [full] consideration to ~",
+            "take ~ into consideration"
+        ],
+        "phrase_ja": [
+            "〜を真剣[十分]に考える",
+            "〜を考慮に入れる"
+        ],
+        "sentense_en": [
+            "Her proposal is worthy of consideration."
+        ],
+        "sentense_ja": [
+            "彼女の提案は検討に値する"
+        ]
+    },
+    {
+        "id": "0143",
+        "word": "emergency",
+        "chants": [
+            "緊急事態",
+            "非常事態",
+            "緊急の場合",
+            "非常の場合"
+        ],
+        "phrase_en": [
+            "emergency surgery",
+            "an emergency exit"
+        ],
+        "phrase_ja": [
+            "緊急手術",
+            "非常口"
+        ],
+        "sentense_en": [
+            "Dial 911 for emergency cases only."
+        ],
+        "sentense_ja": [
+            "緊急の場合のみ、911に電話してください"
+        ]
+    },
+    {
+        "id": "0144",
+        "word": "identification",
+        "chants": [
+            "身分証明書",
+            "身元確認"
+        ],
+        "phrase_en": [
+            "carry identification at all times",
+            "the identification of the suspect"
+        ],
+        "phrase_ja": [
+            "常に身分証明書を携行する",
+            "容疑者の身元確認"
+        ],
+        "sentense_en": [
+            "You will be asked to show some identification to enter the building."
+        ],
+        "sentense_ja": [
+            "そのビルに入るには、何か身分証明書を見せるよう求められるだろう"
+        ]
+    },
+    {
+        "id": "0145",
+        "word": "institute",
+        "chants": [
+            "研究機関",
+            "学会",
+            "大学",
+            "(制度など)を制定する",
+            "(制度など)を設ける",
+            "(調査など)を始める"
+        ],
+        "phrase_en": [
+            "a language institute",
+            "the Massachusetts Institute of Technology"
+        ],
+        "phrase_ja": [
+            "語学研究所",
+            "マサチューセッツ工科大学"
+        ],
+        "sentense_en": [
+            "He works at a research institute at the university."
+        ],
+        "sentense_ja": [
+            "彼はその大学の研究所に勤務している"
+        ]
+    },
+    {
+        "id": "0146",
+        "word": "output",
+        "chants": [
+            "生産高",
+            "出力",
+            "〜を出力する"
+        ],
+        "phrase_en": [
+            "agricultural output",
+            "an output unit"
+        ],
+        "phrase_ja": [
+            "農業生産高",
+            "出力装置"
+        ],
+        "sentense_en": [
+            "Most car companies plan to decrease their car output next year."
+        ],
+        "sentense_ja": [
+            "ほとんどの自動車会社は来年の自動車生産を減らすことを計画している"
+        ]
+    },
+    {
+        "id": "0147",
+        "word": "recommendation",
+        "chants": [
+            "推薦",
+            "推薦状",
+            "勧告",
+            "助言"
+        ],
+        "phrase_en": [
+            "on his recommendation",
+            "give her a recommendation"
+        ],
+        "phrase_ja": [
+            "彼の薦めで",
+            "彼女に推薦状を書いてあげる"
+        ],
+        "sentense_en": [
+            "Please enclose two letters of recommendation."
+        ],
+        "sentense_ja": [
+            "推薦状を2通同封してください"
+        ]
+    },
+    {
+        "id": "0148",
+        "word": "remark",
+        "chants": [
+            "発言",
+            "見解",
+            "所見",
+            "感想",
+            "〜と述べる",
+            "言う"
+        ],
+        "phrase_en": [
+            "remarks on global warming",
+            "make a remark about ~"
+        ],
+        "phrase_ja": [
+            "地球温暖化についての所見",
+            "〜について見解を述べる"
+        ],
+        "sentense_en": [
+            "The foreign minister apologized for his remarks about race."
+        ],
+        "sentense_ja": [
+            "その外務大臣は人種に関する発言を謝罪した"
+        ]
+    },
+    {
+        "id": "0149",
+        "word": "sculpture",
+        "chants": [
+            "彫刻",
+            "彫刻作品"
+        ],
+        "phrase_en": [
+            "a life-sized sculpture"
+        ],
+        "phrase_ja": [
+            "等身大の彫刻"
+        ],
+        "sentense_en": [
+            "The sculptures are lined up along the road."
+        ],
+        "sentense_ja": [
+            "彫刻が道に沿って並んでいる"
+        ]
+    },
+    {
+        "id": "0150",
+        "word": "treatment",
+        "chants": [
+            "治療",
+            "待遇",
+            "取り扱い"
+        ],
+        "phrase_en": [
+            "dental treatment",
+            "special treatment"
+        ],
+        "phrase_ja": [
+            "歯の治療",
+            "特別待遇"
+        ],
+        "sentense_en": [
+            "You should receive treatment for your injuries."
+        ],
+        "sentense_ja": [
+            "あなたはけがの治療を受けたほうがいい"
+        ]
+    },
+    {
+        "id": "0151",
+        "word": "athlete",
+        "chants": [
+            "運動選手"
+        ],
+        "phrase_en": [
+            "a professional athlete"
+        ],
+        "phrase_ja": [
+            "プロの運動選手"
+        ],
+        "sentense_en": [
+            "Some athletes are training on the track."
+        ],
+        "sentense_ja": [
+            "何人かの運動選手が陸上トラックで練習をしている"
+        ]
+    },
+    {
+        "id": "0152",
+        "word": "commitment",
+        "chants": [
+            "約束",
+            "誓約",
+            "献身"
+        ],
+        "phrase_en": [
+            "a lifelong commitment",
+            "commitment to one's work"
+        ],
+        "phrase_ja": [
+            "一生の約束",
+            "仕事への献身"
+        ],
+        "sentense_en": [
+            "The author made a commitment to write two new books in the next two years."
+        ],
+        "sentense_ja": [
+            "その作家は今後2年で2冊の新作を書くと約束した"
+        ]
+    },
+    {
+        "id": "0153",
+        "word": "attendance",
+        "chants": [
+            "出席",
+            "出席者数"
+        ],
+        "phrase_en": [
+            "take attendance",
+            "a large [poor] attendance"
+        ],
+        "phrase_ja": [
+            "出席を取る",
+            "多い[少ない]出席者数"
+        ],
+        "sentense_en": [
+            "Attendance at the conference is optional."
+        ],
+        "sentense_ja": [
+            "その会議への出席は任意となっている"
+        ]
+    },
+    {
+        "id": "0154",
+        "word": "dock",
+        "chants": [
+            "波止場",
+            "埠頭"
+        ],
+        "phrase_en": [
+            "unload the cargo at the dock"
+        ],
+        "phrase_ja": [
+            "埠頭で積み荷を降ろす"
+        ],
+        "sentense_en": [
+            "The boat is heading for the dock."
+        ],
+        "sentense_ja": [
+            "ボートは波止場へ向かっている"
+        ]
+    },
+    {
+        "id": "0155",
+        "word": "establishment",
+        "chants": [
+            "社会的機関",
+            "公共施設",
+            "設立",
+            "体制"
+        ],
+        "phrase_en": [
+            "a financial establishment",
+            "the establishment of a new hospital"
+        ],
+        "phrase_ja": [
+            "金融機関",
+            "新しい病院の設立"
+        ],
+        "sentense_en": [
+            "Yale University is one of the most prestigious educational establishments in the US."
+        ],
+        "sentense_ja": [
+            "エール大学はアメリカで最も権威ある教育機関の1つだ"
+        ]
+    },
+    {
+        "id": "0156",
+        "word": "investigation",
+        "chants": [
+            "調査",
+            "捜査"
+        ],
+        "phrase_en": [
+            "a thorough investigation",
+            "under investigation"
+        ],
+        "phrase_ja": [
+            "徹底的な調査",
+            "調査中で"
+        ],
+        "sentense_en": [
+            "An investigation into the incident is under way."
+        ],
+        "sentense_ja": [
+            "その事件の捜査は進行中だ"
+        ]
+    },
+    {
+        "id": "0157",
+        "word": "recipe",
+        "chants": [
+            "調理法",
+            "レシピ",
+            "原因"
+        ],
+        "phrase_en": [
+            "a recipe book",
+            "be a recipe for disaster"
+        ],
+        "phrase_ja": [
+            "料理本",
+            "[事が]災害の原因である"
+        ],
+        "sentense_en": [
+            "This recipe feeds three to four."
+        ],
+        "sentense_ja": [
+            "この調理法は3、4人分だ"
+        ]
+    },
+    {
+        "id": "0158",
+        "word": "task",
+        "chants": [
+            "任務",
+            "仕事",
+            "課題"
+        ],
+        "phrase_en": [
+            "perform [carry out] a task",
+            "a difficult task"
+        ],
+        "phrase_ja": [
+            "任務を遂行する",
+            "困難な任務"
+        ],
+        "sentense_en": [
+            "The task was a challenging one."
+        ],
+        "sentense_ja": [
+            "その任務はやりがいのあるものだった"
+        ]
+    },
+    {
+        "id": "0159",
+        "word": "apology",
+        "chants": [
+            "謝罪",
+            "おわび"
+        ],
+        "phrase_en": [
+            "make an apology for ~",
+            "demand an apology from ~"
+        ],
+        "phrase_ja": [
+            "〜のことでわびる",
+            "〜からの謝罪を要求する"
+        ],
+        "sentense_en": [
+            "Please accept my apologies."
+        ],
+        "sentense_ja": [
+            "ここにおわびいたします"
+        ]
+    },
+    {
+        "id": "0160",
+        "word": "concentration",
+        "chants": [
+            "集中力",
+            "集中"
+        ],
+        "phrase_en": [
+            "improve [lose] one's concentration",
+            "concentration of power"
+        ],
+        "phrase_ja": [
+            "集中力を高める[なくす]",
+            "権力の集中"
+        ],
+        "sentense_en": [
+            "This task requires a lot of concentration."
+        ],
+        "sentense_ja": [
+            "この任務はかなりの集中力を要する"
+        ]
+    },
+    {
+        "id": "0161",
+        "word": "barrel",
+        "chants": [
+            "たる",
+            "バレル"
+        ],
+        "phrase_en": [
+            "a barrel of beer",
+            "an increase of oil prices by $2 per barrel"
+        ],
+        "phrase_ja": [
+            "1たるのビール",
+            "1バレル当たり2ドルの石油価格の上昇"
+        ],
+        "sentense_en": [
+            "The barrels are lined up neatly in a warehouse."
+        ],
+        "sentense_ja": [
+            "倉庫の中にたるがきちっと並べられている"
+        ]
+    },
+    {
+        "id": "0162",
+        "word": "booklet",
+        "chants": [
+            "小冊子",
+            "パンフレット"
+        ],
+        "phrase_en": [
+            "a test booklet"
+        ],
+        "phrase_ja": [
+            "試験解答冊子"
+        ],
+        "sentense_en": [
+            "The booklet provides information about hotel accommodations in the city."
+        ],
+        "sentense_ja": [
+            "その小冊子には市内の宿泊施設に関する情報が載っている"
+        ]
+    },
+    {
+        "id": "0163",
+        "word": "correspondent",
+        "chants": [
+            "特派員",
+            "通信員"
+        ],
+        "phrase_en": [
+            "a foreign correspondent"
+        ],
+        "phrase_ja": [
+            "海外特派員"
+        ],
+        "sentense_en": [
+            "The newspaper has five correspondents in Japan."
+        ],
+        "sentense_ja": [
+            "その新聞社には5人の日本在住特派員がいる"
+        ]
+    },
+    {
+        "id": "0164",
+        "word": "paperwork",
+        "chants": [
+            "文書事務",
+            "事務作業"
+        ],
+        "phrase_en": [
+            "reduce paperwork"
+        ],
+        "phrase_ja": [
+            "文書事務を減らす"
+        ],
+        "sentense_en": [
+            "I have to catch up on some paperwork."
+        ],
+        "sentense_ja": [
+            "私は事務作業の遅れを取り戻さなければならない"
+        ]
+    },
+    {
+        "id": "0165",
+        "word": "venture",
+        "chants": [
+            "冒険的事業",
+            "投機的事業",
+            "ベンチャー"
+        ],
+        "phrase_en": [
+            "a joint venture"
+        ],
+        "phrase_ja": [
+            "合弁事業"
+        ],
+        "sentense_en": [
+            "He lost a great deal of money in the venture."
+        ],
+        "sentense_ja": [
+            "彼はその冒険的事業で多額の金を失った"
+        ]
+    },
+    {
+        "id": "0166",
+        "word": "guideline",
+        "chants": [
+            "指針",
+            "ガイドライン"
+        ],
+        "phrase_en": [
+            "issue guidelines",
+            "follow guidelines"
+        ],
+        "phrase_ja": [
+            "指針を発表する",
+            "指針に従う"
+        ],
+        "sentense_en": [
+            "These guidelines have the force of law."
+        ],
+        "sentense_ja": [
+            "これらの指針には法的拘束力がある"
+        ]
+    },
+    {
+        "id": "0167",
+        "word": "mayor",
+        "chants": [
+            "市長",
+            "町長"
+        ],
+        "phrase_en": [
+            "the mayor of New York",
+            "the vice mayor"
+        ],
+        "phrase_ja": [
+            "ニューヨーク市長",
+            "副市長"
+        ],
+        "sentense_en": [
+            "A new mayor will be elected next week."
+        ],
+        "sentense_ja": [
+            "新しい市長が来週選ばれる"
+        ]
+    },
+    {
+        "id": "0168",
+        "word": "atmosphere",
+        "chants": [
+            "雰囲気",
+            "大気"
+        ],
+        "phrase_en": [
+            "a relaxing atmosphere",
+            "the atmosphere on Mars"
+        ],
+        "phrase_ja": [
+            "くつろいだ雰囲気",
+            "火星の大気"
+        ],
+        "sentense_en": [
+            "Indirect lighting creates a romantic atmosphere."
+        ],
+        "sentense_ja": [
+            "間接照明はロマンチックな雰囲気を生み出す"
+        ]
+    },
+    {
+        "id": "0169",
+        "word": "maintenance",
+        "chants": [
+            "管理",
+            "維持",
+            "整備"
+        ],
+        "phrase_en": [
+            "building [car] maintenance",
+            "a maintenance worker"
+        ],
+        "phrase_ja": [
+            "建物の管理[車の整備]",
+            "ビルなどの用務員、[機械の]補修員"
+        ],
+        "sentense_en": [
+            "Our primary concern is the maintenance of law and order."
+        ],
+        "sentense_ja": [
+            "私たちの１番の関心事は治安の維持だ"
+        ]
+    },
+    {
+        "id": "0170",
+        "word": "recession",
+        "chants": [
+            "景気後退",
+            "一時的不景気"
+        ],
+        "phrase_en": [
+            "the recession of the 1990s",
+            "in recession"
+        ],
+        "phrase_ja": [
+            "1990年代の景気後退",
+            "不況で"
+        ],
+        "sentense_en": [
+            "The world economy is going into a recession."
+        ],
+        "sentense_ja": [
+            "世界経済は景気後退へと向かっている"
+        ]
+    },
+    {
+        "id": "0171",
+        "word": "commission",
+        "chants": [
+            "手数料",
+            "歩合",
+            "委任",
+            "委託",
+            "委員会",
+            "〜を依頼する"
+        ],
+        "phrase_en": [
+            "sell cars on commission",
+            "get a commission to do ~"
+        ],
+        "phrase_ja": [
+            "歩合で車を売る",
+            "〜する委託を受ける"
+        ],
+        "sentense_en": [
+            "He gets a 25 percent commission on his sales."
+        ],
+        "sentense_ja": [
+            "彼は売り上げの25パーセントを手数料としてもらっている"
+        ]
+    },
+    {
+        "id": "0172",
+        "word": "component",
+        "chants": [
+            "部品",
+            "構成要素"
+        ],
+        "phrase_en": [
+            "computer components",
+            "an essential component of a healthy lifestyle"
+        ],
+        "phrase_ja": [
+            "コンピューターの部品",
+            "健康的な生活に不可欠の要素"
+        ],
+        "sentense_en": [
+            "The factory manufactures electrical components for cars."
+        ],
+        "sentense_ja": [
+            "その工場は自動車用の電気部品を製造している"
+        ]
+    },
+    {
+        "id": "0173",
+        "word": "currency",
+        "chants": [
+            "通貨",
+            "貨幣"
+        ],
+        "phrase_en": [
+            "paper currency",
+            "foreign currency"
+        ],
+        "phrase_ja": [
+            "紙幣",
+            "外貨"
+        ],
+        "sentense_en": [
+            "The local currency in Thailand is the baht."
+        ],
+        "sentense_ja": [
+            "タイの国内通貨はバーツだ"
+        ]
+    },
+    {
+        "id": "0174",
+        "word": "debt",
+        "chants": [
+            "借金",
+            "負債",
+            "借金状態"
+        ],
+        "phrase_en": [
+            "repay [clear] a debt"
+        ],
+        "phrase_ja": [
+            "借金を返済する"
+        ],
+        "sentense_en": [
+            "She is $2,000 in debt."
+        ],
+        "sentense_ja": [
+            "彼女には2000ドルの借金がある"
+        ]
+    },
+    {
+        "id": "0175",
+        "word": "deficit",
+        "chants": [
+            "赤字",
+            "不足額"
+        ],
+        "phrase_en": [
+            "a trade deficit of $750 million"
+        ],
+        "phrase_ja": [
+            "7億5000万ドルの貿易赤字"
+        ],
+        "sentense_en": [
+            "The company went bankrupt with a deficit of approximately $2 million."
+        ],
+        "sentense_ja": [
+            "その会社は約200万ドルの赤字を抱えて倒産した"
+        ]
+    },
+    {
+        "id": "0176",
+        "word": "initiative",
+        "chants": [
+            "主導権",
+            "イニシアチブ",
+            "自発性",
+            "計画"
+        ],
+        "phrase_en": [
+            "seize [gain] the initiative",
+            "show initiative"
+        ],
+        "phrase_ja": [
+            "主導権を握る",
+            "自発性を発揮する"
+        ],
+        "sentense_en": [
+            "Mr. Brown took the initiative in carrying out the project."
+        ],
+        "sentense_ja": [
+            "ブラウン氏は率先してそのプロジェクトを実行した"
+        ]
+    },
+    {
+        "id": "0177",
+        "word": "objective",
+        "chants": [
+            "目標",
+            "目的",
+            "客観的な"
+        ],
+        "phrase_en": [
+            "the main [primary] objective",
+            "achieve [meet] an objective"
+        ],
+        "phrase_ja": [
+            "主要な目標",
+            "目標を達成する"
+        ],
+        "sentense_en": [
+            "Our objective is to increase productivity."
+        ],
+        "sentense_ja": [
+            "私たちの目標は生産性を上げることだ"
+        ]
+    },
+    {
+        "id": "0178",
+        "word": "participant",
+        "chants": [
+            "参加者",
+            "当事者"
+        ],
+        "phrase_en": [
+            "participants in the marathon"
+        ],
+        "phrase_ja": [
+            "そのマラソンの参加者"
+        ],
+        "sentense_en": [
+            "There were over 100 participants in the speech contest."
+        ],
+        "sentense_ja": [
+            "そのスピーチコンテストには100名以上の参加者がいた"
+        ]
+    },
+    {
+        "id": "0179",
+        "word": "pension",
+        "chants": [
+            "年金"
+        ],
+        "phrase_en": [
+            "live on a pension",
+            "receive a pension"
+        ],
+        "phrase_ja": [
+            "年金で生活する",
+            "年金を受け取る"
+        ],
+        "sentense_en": [
+            "Mr. Yoshida draws a yearly pension of 3 million yen."
+        ],
+        "sentense_ja": [
+            "ヨダさんは年間300万円の年金を受け取っている"
+        ]
+    },
+    {
+        "id": "0180",
+        "word": "acquaintance",
+        "chants": [
+            "知人",
+            "知り合い"
+        ],
+        "phrase_en": [
+            "a business acquaintance",
+            "make someone's acquaintance"
+        ],
+        "phrase_ja": [
+            "仕事上の知人",
+            "〜と知り合いになる"
+        ],
+        "sentense_en": [
+            "David was introduced to his new girlfriend by a mutual acquaintance."
+        ],
+        "sentense_ja": [
+            "デビットは彼の新しいガールフレンドを共通の知人に紹介された"
+        ]
+    },
+    {
+        "id": "0181",
+        "word": "collapse",
+        "chants": [
+            "崩壊",
+            "倒壊",
+            "崩壊する",
+            "つぶれる"
+        ],
+        "phrase_en": [
+            "the collapse of the building",
+            "the collapse of the Soviet Union"
+        ],
+        "phrase_ja": [
+            "そのビルの崩壊",
+            "ソ連の崩壊"
+        ],
+        "sentense_en": [
+            "Recent years have witnessed the collapse of many small businesses."
+        ],
+        "sentense_ja": [
+            "ここ数年、多くの中小企業の倒産が見られた"
+        ]
+    },
+    {
+        "id": "0182",
+        "word": "innovation",
+        "chants": [
+            "革新",
+            "刷新",
+            "斬新な考え"
+        ],
+        "phrase_en": [
+            "technological innovation"
+        ],
+        "phrase_ja": [
+            "技術革新"
+        ],
+        "sentense_en": [
+            "Creativity and innovation are key to business success."
+        ],
+        "sentense_ja": [
+            "創造性と革新が事業の成功にとって重要だ"
+        ]
+    },
+    {
+        "id": "0183",
+        "word": "luxury",
+        "chants": [
+            "ぜいたくさ",
+            "豪華さ",
+            "快適さ",
+            "ぜいたく品",
+            "ぜいたくな"
+        ],
+        "phrase_en": [
+            "live in luxury",
+            "a luxury like a large wide-screen TV"
+        ],
+        "phrase_ja": [
+            "ぜいたくに暮らす",
+            "大型ワイドスクリーン・テレビのようなぜいたく品"
+        ],
+        "sentense_en": [
+            "In that country, a few enjoy luxury while many others suffer poverty."
+        ],
+        "sentense_ja": [
+            "その国では少数の人々がぜいたくを享受する一方、ほかの多くの人々は貧困にあえいでいる"
+        ]
+    },
+    {
+        "id": "0184",
+        "word": "patent",
+        "chants": [
+            "特許",
+            "特許権",
+            "〜の特許権を取る",
+            "特許の",
+            "特許を受けた",
+            "明白な"
+        ],
+        "phrase_en": [
+            "take out [file] a patent on the invention"
+        ],
+        "phrase_ja": [
+            "その発明の特許を取る[申請する]"
+        ],
+        "sentense_en": [
+            "The patent on the drug will run out in 2030."
+        ],
+        "sentense_ja": [
+            "その薬の特許は2030年に無効になる"
+        ]
+    },
+    {
+        "id": "0185",
+        "word": "suburb",
+        "chants": [
+            "郊外"
+        ],
+        "phrase_en": [
+            "a suburb of London",
+            "move to the suburbs"
+        ],
+        "phrase_ja": [
+            "ロンドンの郊外",
+            "郊外に引っ越す"
+        ],
+        "sentense_en": [
+            "They live in Long Island, a suburb of New York City."
+        ],
+        "sentense_ja": [
+            "彼らはニューヨーク市郊外のロングアイランドに住んでいる"
+        ]
+    },
+    {
+        "id": "0186",
+        "word": "conclusion",
+        "chants": [
+            "結論",
+            "結末"
+        ],
+        "phrase_en": [
+            "come to the conclusion that ~",
+            "in conclusion"
+        ],
+        "phrase_ja": [
+            "〜という結論に達する",
+            "結論として、終わりに臨んで"
+        ],
+        "sentense_en": [
+            "They couldn't come to a conclusion at the meeting."
+        ],
+        "sentense_ja": [
+            "彼らは会議で結論に達することができなかった"
+        ]
+    },
+    {
+        "id": "0187",
+        "word": "gratitude",
+        "chants": [
+            "感謝の気持ち",
+            "謝意"
+        ],
+        "phrase_en": [
+            "owe a debt of gratitude to ~",
+            "with gratitude"
+        ],
+        "phrase_ja": [
+            "〜に恩がある",
+            "感謝して"
+        ],
+        "sentense_en": [
+            "I would like to express my gratitude for your cooperation."
+        ],
+        "sentense_ja": [
+            "皆さんのご協力に対して感謝申し上げます"
+        ]
+    },
+    {
+        "id": "0188",
+        "word": "phase",
+        "chants": [
+            "段階",
+            "局面",
+            "〜を段階的に導入する",
+            "〜を段階的に廃止する"
+        ],
+        "phrase_en": [
+            "in phases",
+            "go through a difficult phase"
+        ],
+        "phrase_ja": [
+            "段階的に",
+            "難しい時期を経験する"
+        ],
+        "sentense_en": [
+            "The project is entering its final phase."
+        ],
+        "sentense_ja": [
+            "その計画は最終段階に入ろうとしている"
+        ]
+    },
+    {
+        "id": "0189",
+        "word": "speculation",
+        "chants": [
+            "推測",
+            "推量",
+            "投機",
+            "思惑買い"
+        ],
+        "phrase_en": [
+            "wild [idle] speculation",
+            "on speculation"
+        ],
+        "phrase_ja": [
+            "いい加減な推測",
+            "投機的に、思惑で"
+        ],
+        "sentense_en": [
+            "The report is based on speculation rather than facts."
+        ],
+        "sentense_ja": [
+            "その報告書は事実よりもむしろ推測に基づいている"
+        ]
+    },
+    {
+        "id": "0190",
+        "word": "association",
+        "chants": [
+            "協会",
+            "団体",
+            "提携",
+            "つき合い"
+        ],
+        "phrase_en": [
+            "the National Education Association",
+            "in association with ~"
+        ],
+        "phrase_ja": [
+            "米国の教育協会",
+            "〜と提携して、〜と共同で"
+        ],
+        "sentense_en": [
+            "Myanmar is a member of ASEAN, the Association of Southeast Asian Nations."
+        ],
+        "sentense_ja": [
+            "ミャンマーはASEAN[東南アジア諸国連合]の加盟国だ"
+        ]
+    },
+    {
+        "id": "0191",
+        "word": "characteristic",
+        "chants": [
+            "特徴",
+            "特性",
+            "特質",
+            "典型的な",
+            "〜に特有である",
+            "〜に特徴的である"
+        ],
+        "phrase_en": [
+            "physical characteristics"
+        ],
+        "phrase_ja": [
+            "身体的特徴"
+        ],
+        "sentense_en": [
+            "An important characteristic of good teachers is that they care about their students."
+        ],
+        "sentense_ja": [
+            "よい教師の重要な特徴は、彼らが生徒たちを気遣うということだ"
+        ]
+    },
+    {
+        "id": "0192",
+        "word": "delivery",
+        "chants": [
+            "配達"
+        ],
+        "phrase_en": [
+            "mail deliveries",
+            "cash on delivery"
+        ],
+        "phrase_ja": [
+            "郵便配達",
+            "代金着払い"
+        ],
+        "sentense_en": [
+            "The department store offers free delivery."
+        ],
+        "sentense_ja": [
+            "そのデパートでは無料配達を行っている"
+        ]
+    }
+]
